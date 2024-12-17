@@ -14,7 +14,7 @@ if not os.path.exists(WORKING_DIR):
 rag = LightRAG(
     working_dir=WORKING_DIR,
     llm_model_func=hf_model_complete,  # Use Hugging Face model for text generation
-    llm_model_name='Qwen/Qwen2.5-3B',  # Model name from Hugging Face
+    llm_model_name='Qwen/Qwen2.5-1.5B',  # Model name from Hugging Face
     # Use Hugging Face embedding function
     embedding_func=EmbeddingFunc(
         embedding_dim=1536,
