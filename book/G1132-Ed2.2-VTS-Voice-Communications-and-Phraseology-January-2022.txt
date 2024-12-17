@@ -1,0 +1,1168 @@
+ 
+  
+   
+ 
+ 
+ 
+10, rue des Gaudines –  78100 Saint Germain en Laye, France  
+Tél. +33 (0)1 34 51 70 01 –  contact @iala -aism.org  
+www.iala -aism.org  
+International Association of Marine Aids to Navigation and Lighthouse Authorities  
+Association Internationale de Signalisation Maritime   IALA G UIDELINE  
+ 
+ 
+ 
+G1132 
+VTS VOICE COMMUNICATIONS AND 
+PHRASEOLOGY  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Edition  2.2 
+January  2022  
+ 
+urn:mrn:iala:pub:g 1132:ed2. 2
+ 
+   
+DOCUMENT REVISION 
+ 
+ 
+ 
+ 
+IALA Guideline  G1132 VTS Voice Communications and Phraseology  
+Edition 2.2  urn:mrn:iala:pub:g113 2:ed2.2  P 2 Revisions to this document are to be noted in the table prior to the issue of a revised document.  
+Date  Details  Approval  
+December 2017  First issue  of “VTS VHF VOICE COMMUNICATION”  Council 65  
+June 2021 Update of document and inclusion of VTS phraseology.  Change of 
+title to “VTS Voice Communications and Phraseology ”. Council 73  
+January  2022 Edition  2.1 Approved by Council December 2021 and published 
+January 2022, in alignment with IMO Resolution A.1158(32) 
+Guidelines for Vessel Traffic Services.  Council 74  
+July 2022 Edition 2.2 Editiorial corrections .  
+   
+   
+   
+ 
+ 
+    
+CONTENTS  
+ 
+ 
+ 
+ 
+ 
+IALA Guideline  G1132 – VTS Voice Communications and Phraseology  
+Edition 2.2  urn:mrn:iala:pub:g1132:ed2.2  P 3 1. INTRODUCTION  .................................................................................................................................  6 
+2. DOCUMENT PURPOSE  ........................................................................................................................ 6 
+2.1. Relationship to other documents  ............................................................................................................ 6 
+3. DOCUMENT STRUCTURE  .................................................................................................................... 7 
+4. PART A  GENERAL PRINCPLES OF VTS COMMUNICATIONS ................................................................... 7 
+4.1. INTERNATIONAL / NATIONAL OBLIGATIONS  ........................................................................................... 7 
+4.2. LANGUAGE  ............................................................................................................................................... 7 
+4.3. CONSISTENCY  ........................................................................................................................................... 7 
+4.4. IMPORTANCE OF USING STANDARD PHRASEOLOGY  .............................................................................. 7 
+4.5. CULTURAL DIFFERENCES  .......................................................................................................................... 8 
+5. PART B MESSAGE COMPILATION, DELIVERY AND INTERPRETATION  .................................................... 9 
+5.1. COMPILING A MESSAGE  .......................................................................................................................... 9 
+5.1.1.  MESSAGE STRUCTURE  ....................................................................................................................................................... 9 
+5.1.2.  MESSAGE MARKERS ......................................................................................................................................................... 10 
+5.1.3.  PHONETIC ALPHABET  ....................................................................................................................................................... 12 
+5.1.4.  PHONETIC NUMBERS [NUMERALS]  .................................................................................................................................  12 
+5.1.5.  POSITIONS  ....................................................................................................................................................................... 13 
+5.1.6.  BEARINGS  ........................................................................................................................................................................ 13 
+5.1.7.  COURSE  ............................................................................................................................................................................ 13 
+5.1.8.  DISTANCES  ....................................................................................................................................................................... 14 
+5.1.9.  SPEED  ............................................................................................................................................................................... 14 
+5.1.10.  TIME  ................................................................................................................................................................................. 14 
+5.1.11.  GEOGRAPHICAL NAMES  .................................................................................................................................................. 14 
+5.1.12.  ABBREVIATIONS  ............................................................................................................................................................... 14 
+5.2. DELIVERING A MESSAGE  ........................................................................................................................ 14 
+5.2.1.  PREPARATION WHEN USING VHF  .................................................................................................................................... 14 
+5.2.2.  TONE AND VOLUME  ........................................................................................................................................................ 14 
+5.2.3.  EMPHASIS ON KEYWORDS  ............................................................................................................................................... 15 
+5.2.4.  SPEECH RATE  ................................................................................................................................................................... 15 
+5.2.5.  WORD GROUPING AND PAUSING  .................................................................................................................................... 15 
+5.2.6.  QUESTIONING TECHNIQUES  ............................................................................................................................................ 15 
+5.2.7. AMBIGUOUS TERMINOLOGY  ........................................................................................................................................... 16 
+5.2.8.  RESPONSES  ...................................................................................................................................................................... 16 
+5.2.9.  CORRECTIONS  .................................................................................................................................................................. 17 
+5.2.10.  REPETITION  ...................................................................................................................................................................... 17 
+5.2.11.  DISTRE SS AND SAFETY COMMUNICATIONS  .................................................................................................................... 17 
+5.3. HOW TO INTERPRET A MESSAGE ........................................................................................................... 17 
+5.3.1.  EFFECTIVE LISTENING SKILLS  ........................................................................................................................................... 18 
+5.3.2.  CLOSED LOOP COMMUNICATIONS [READ -BACK]  ............................................................................................................ 19 
+ 
+    
+CONTENTS  
+  
+ 
+ 
+IALA Guideline  G1132 VTS Voice Communications and Phraseology  
+Edition 2.2  urn:mrn:iala:pub:g1132:ed2.2  P 4 5.3.3.  INFLUENCE OF INTERNAL AND EXTERNAL FACTORS  ....................................................................................................... 19 
+6. PART C  STANDARD PHRASES  ........................................................................................................... 20 
+6.1. OVERVIEW  ............................................................................................................................................. 20 
+6.2. GENERAL  ................................................................................................................................................ 20 
+6.2.1.  GENERIC COMMUNICATIONS  .......................................................................................................................................... 20 
+6.2.2. RADIO CHECKS  .................................................................................................................................................................  21 
+6.2.3.  VTS OPERATIONAL STATUS  .............................................................................................................................................. 21 
+6.2.4. REQUESTING REPORTS  .................................................................................................................................................... 22 
+6.2.5.  CALL REQUESTS  ............................................................................................................................................................... 22 
+6.2.6.  USE OF OTHER VHF CHANNELS  ........................................................................................................................................ 22 
+6.2.7.  REPORTING OF SHIP IDENTIFICATION AND PARTICULARS ............................................................................................... 22 
+6.2.8.  SPEED  ............................................................................................................................................................................... 22 
+6.2.9.  ENGINE  ............................................................................................................................................................................ 23 
+6.3. PROVISION OF INFORMATION  ............................................................................................................... 23 
+6.3.1.  TRAFFIC INFORMATION  ................................................................................................................................................... 23 
+6.3.2.  WEATHER INFORMATION  ................................................................................................................................................ 24 
+6.3.3.  TIDAL/HYDROLOGICAL INFORMATION  ............................................................................................................................ 24 
+6.3.4.  INFORMATION BROADCASTS  .......................................................................................................................................... 25 
+6.4. MANAGEMENT OF SHIP TRAFFIC  ........................................................................................................... 25 
+6.4.1.  NAVIGATING IN THE VTS AREA  ........................................................................................................................................ 25 
+6.4.2.  BERTHING  ........................................................................................................................................................................ 26 
+6.4.3.  PROCEEDING FROM OR TO AN ALONGSIDE BERTH OR ANCHORAGE  ............................................................................. 27 
+6.4.4.  ANCHOR OPERATIONS  ..................................................................................................................................................... 28 
+6.4.5.  PILOTAGE  ......................................................................................................................................................................... 29 
+6.5. RESPONDING TO DEVELOPING UNSAFE SITUATION  ............................................................................. 30 
+7. DEFINITIONS .................................................................................................................................... 30 
+8. ABBREVIATIONS  .............................................................................................................................. 30 
+9. REFERENCES  .................................................................................................................................... 30 
+ 
+List of Tables  
+Table 1  Radio communications message structure  .................................................................................... 9 
+Table 2  Phonetic alphabet and pronunciation  ......................................................................................... 12 
+Table 3  Phonetic numbers and pronunciation  ......................................................................................... 12 
+Table 4  Course descriptors  ....................................................................................................................... 13 
+Table 5  Generic communication messages  .............................................................................................. 20 
+Table 6  Radio check messages  ................................................................................................................. 21 
+Table 7  VTS Operational status messages  ............................................................................................... 21 
+Table 8  Requesting reports messages  ...................................................................................................... 22 
+ 
+    
+CONTENTS  
+  
+ 
+ 
+IALA Guideline  G1132 VTS Voice Communications and Phraseology  
+Edition 2.2  urn:mrn:iala:pub:g1132:ed2.2  P 5 Table 9  Call requests messages  ................................................................................................................ 22 
+Table 10  Use of other VHF channels messages  .......................................................................................... 22 
+Table 11  Reporting of ship identification and particulars messages  ......................................................... 22 
+Table 12  Speed messages  ........................................................................................................................... 23 
+Table 13  Engine messages  ......................................................................................................................... 23 
+Table 14  Traffic information messages  ...................................................................................................... 23 
+Table 15  Weather information messages  .................................................................................................. 24 
+Table 16  Tidal and hydrological information messages  ............................................................................. 24 
+Table 17  Approaching and entering a VTS area messages  ........................................................................ 26 
+Table 18  Entering berth messages  ............................................................................................................. 26 
+Table 19  Departure form berth messages  .................................................................................................. 27 
+Table 20  Proceeding (berths and anchorages) messages  .......................................................................... 27 
+Table 21  Denying permission to proceed messages  ................................................................................... 28 
+Table 22  Anchoring instruction messages  .................................................................................................. 28 
+Table 23  Heave up anchor messages  ......................................................................................................... 29 
+Table 24  Dragging anchor messages  ......................................................................................................... 29 
+Table 25  Pilotage messages  ....................................................................................................................... 29 
+Table 26  Responding to developing unsafe situation messages  ................................................................ 30 
+ 
+List of Figures  
+Figure 1  Communication process  .............................................................................................................. 18 
+ 
+ 
+ 
+ 
+ 
+IALA Guideline  G1132 VTS Voice Communications and Phraseology   
+Edition 2.2  urn:m rn:iala:pub:g1132:ed2.2  P 6 1. INTRODUCTION  
+ 
+Effective communication is an essential component for operations in the maritime environment and is achieved 
+when the intended meaning of the sender and the perceived meaning of the receiver is the same.  
+The use of standard messaging structure and phrases enables us to communicate quickly and effectively despite differences in language and reduces the risk  for misunderstanding.  
+These principles are essential for the safe and efficient communication , noting: 
+• IMO Resolution A.1158( 32) Guideline s for vessel traffic services  [1] states:  
+“VTS communications should be timely, clear, concise and unambiguous. ”.  
+• IMO Resolutio n A.918(22) IMO Standard Marine Communication P hrases  [2] states: 
+“As navigational and safety communications from ship to shore and vice versa, from ship to ship, and on board ship must be precise, simple and unambiguous so as to avoid confusion and error, there is a need to standard ize the language used.” 
+• IALA Recommendation R1012 VTS Communications  [3] states: 
+“The level of safety and efficiency in the movement of maritime traffic within an area covered by a vessel traffic service would be enhanced by ensuring that VTS communications are harmon ized through standard 
+phraseology, procedures and technology for the delivery of precise, simple and unambiguous commun ications 
+to the bridge team and allied services.”   
+Standard message structure and phra seology reduce the risk that a message will be misunderstood and aids the 
+read -back  process so that any error is quickly detected. Ambiguous or non -standard phrases are  frequent causal 
+or contributory factors in marine casualty, incident and near miss situations . 
+2. DOCUMENT PURPOSE 
+ 
+The purpose of this guideline is to assist authorities imp lement practices specified in IALA Recommendation R1012 
+VTS Communications  associated with ensuring VTS communications are harmoniz ed through the use of standard 
+message structure and phrases to:  
+• Facilitate clear, concise, and unambiguous communications th at are timely and effective.  
+• Minim ize misunderstanding of the intent of messages and reduc e the time required for effective 
+communication.  
+• Mitigate complacency amongst VTS personnel .  
+2.1. RELATIONSHIP TO OTHER DOCUMENTS 
+ 
+This Guideline , G1132 VTS Voice Communications and Phraseology, is associated with Recommendation R1012 VTS 
+Communications , a normative provision of IALA Standard S1040 Vessel Traffic Services  [4]. To demonstrate 
+compliance with the Recommendation the provisions of this Guideline need to be implemented.  
+ 
+ 
+ 
+IALA Guideline  G1132 VTS Voice Communications and Phraseology   
+Edition 2.2  urn:mrn:iala:pub:g1132:ed2.2  P 7 The Guideline will also assist:  
+• VTS authorities  prepare standardi zed operating procedures for communication and should be read in 
+conjunction with IALA Guideline  G1141 Operational Procedures for Vessel Traffic Services  [5]. 
+• VTS Tra ining organ izations incorporate the use of standard VTS phraseology into their course 
+curriculums.   
+3. DOCUMENT STRUCTURE  
+ 
+This document consists of three parts:  
+• Part A sets out the general pr inciples for VTS Communications;  
+• Part B provides more general guidance on message composition, delivery and interpretatio n; and 
+• Part C identifies a number of standard phrases for use in VTS operations.  
+4. PART A  GENERAL PRINC IPLES OF VTS COMMUNICATIONS  
+ 
+4.1. INTERNATIONAL / NATIONAL OBLIGATIONS  
+ 
+ITU Radio R egulations [6] require shore -based operators to be appropriately qualified:  
+“No. 48. 1     § 1    Administrations shall ensure that the staff on duty in coast stations and in co ast 
+earth stations are adequately qualified to operate the stations efficiently. ” 
+VTS personnel  should  hold appropriate national qualifications to operate the VHF marine radiotelephony 
+equipment. These qualifications should include operating procedures rel ating to d istress , urgency , safety  and 
+routine communications . 
+4.2. LANGUAGE  
+ 
+English language should be used for all VTS communications with ships  and allied services unless use of an 
+alternative language has been agreed. If an alternative language be used, VT S personnel should be mindful that not 
+all participants may understand what is being communicated.  
+4.3. CONSIST ENCY  
+ 
+Attention should be given to the correct use of phraseology where applicable to establish efficient, clear, concise, 
+and unambiguous communicati ons.  
+VTS Authorities should implement appropriate procedures to ensure the consistent and correct use of VTS phraseology in all instances in which they are applicable.  
+4.4. IMPORTANCE OF USING STANDARD PHRASEOLOGY  
+ 
+The use of standard phraseology is important in order to avoid : 
+ 
+ 
+ 
+IALA Guideline  G1132 VTS Voice Communications and Phraseology   
+Edition 2.2  urn:mrn:iala:pub:g1132:ed2.2  P 8 • The receiver/s not hear ing the message correctly. When the standard phrases were adopted, 
+consideration was given to choosing words and phrases that sound distinctly different and therefore 
+cannot be confused under any readability circumstances.  
+• The receiver/s not understand ing the message. This may be due to e.g. , using phrasal verbs or other 
+words that are not commonly known. The different levels of knowledge of the English language contributes to this as well.  
+• Ambiguit y, i.e. , the transmitting person may mean one thing and the re ceiving person may understand 
+something else.  
+• The message ha ving to be repeated, resulting in delay in response and frequency congestion . 
+• Parts of the message be ing incorrectly acted upon.  
+4.5. CULTURAL DIFFERENCES  
+ 
+Differing cultural experiences and backgrounds may result in different responses to situations. A lack of awareness of these differences could increase the possibility of errors and misunderstandings.  
+W
+hen VTS personnel communicate cross -c
+ulturally special attention should be made to:  
+• S
+hare crucial information with ships to create a common perception of potential dangers, even if this 
+information seems “obvious ”. 
+• U
+se closed loop (or Read -b
+ack) techniques when information may be misunderstood such as the 
+number of persons on -b
+oard or inf ormation that would benefit others using the VTS area, instructions 
+or advice.  
+ 
+ 
+  
+ 
+ 
+ 
+IALA Guideline  G1132 VTS Voice Communications and Phraseology   
+Edition 2.2  urn:mrn:iala:pub:g1132:ed2.2  P 9 5. PART B  MESSAGE COMP ILATION , DELIVERY AND INTERPRETATION  
+ 
+5.1. COMPILING A MESSAGE  
+ 
+The purpose of standard phraseology is to convey information or instructions unambiguously to a  specific recipient 
+or recipients. Use of standard format and content will help to achieve this purpose.  
+Standard phrases are identified in Part C for use in operational circumstances where time may be critical or where 
+misunderstandings might comprom ize safety,  however  there will be many situations where such urgency does not 
+apply and no standard phrase has been identified.  In such circumstances, plain language1 or locally adopted phrases 
+should be used following the general guidance on phraseology below.  
+5.1.1.  MESSAGE  STRUCTURE 
+Message structure provides the framework to convey information or instructions unambiguously us ing a standard 
+format and content structure.  
+Radio communications messages should have the structure  as shown in Table 1 : 
+Table 1  Radio communications message structure  
+1. Establish contact  (Name of ship /Call sign) this is 
+(name) VTS   
+2. Exchange information a. Message marker  See 5.1.2 M essage markers  
+ b. Phrase(s)   
+3. End of message  Over  When expecting a reply  
+4. End of conversation  Out When expecting no reply  
+ 
+Note  (1): F urther information is available in Recommendation ITU-R M.1171: Radiotelephony procedures in the 
+maritime mobile service (M.1171 -0 (10/95)) [6] and IMO Resolution A.954(23) Proper use of VHF Channels  at sea  
+[4]. Note (2) : All relevant ITU r egulations for the maritime service are contained in the ITU’s Manual for use by the 
+Maritime Mobile and Maritime Mobile -Satellite Services (Maritime Manual)  [8], which is required to be held on -
+board every ship.  
+There are some general rules for construction and content of messages, which should be considered:  
+• Use message markers . 
+• Use standard phraseology. Some standard phrases and the message intent are detailed in Part C . 
+• Avoid unnecessary words (e.g. , “what time do you think your ETA is at the pilot station, thank you ”, 
+should be: “ what is your ETA at the pilot station ”). 
+• Keep the subject, verb, and object as near to one another as possible.  
+• Use the active form (such as “INFORMATION. S hip BRAVO is overtaking you” instead of passive 
+“INFORMATION . You are being overtaken by ship BRAVO ). 
+• The use of action word s (e.g. , PROCEED) should come before the condition (e.g. , time or location). 
+ 
+ 
+1  Plain language is writing that is clear, concise, well -organized, and follows other best practices appropriate to the subject or field and intended audience.  
+ 
+ 
+ 
+IALA Guideline  G1132 VTS Voice Communications and Phraseology   
+Edition 2.2  urn:mrn:iala:pub:g1132:ed2.2  P 10 • Each phrase should contain only one topic.  
+• A maximum of two message markers and two phrases should be used in one transmission to avoid an 
+overload on the recipient . 
+• Information m ust be relevant, as accurate as possible and timely.  
+•  Spell out words using the phonetic alphabet (Section 5.1.3) and use phonetic numbers (Section 5.1.4) as 
+required for the names of buoys, stations, call signs etc.  
+• Ships should be clearly identified (e.g., by name and call sign)  and i t may also be beneficial to identify by 
+ship type, for example “ container ship Maersk Rotterdam ”. In many cases, the message element will be 
+preceded by the identity of the ship about which information is being provided.  
+5.1.2.  MESS AGE  MARKERS 
+To facilitate shore -to-ship and ship -to-shore communications, message markers should be used to increase the 
+probability of the purpose of the message being properly understood.  
+Message markers increase the effectiveness and urgency of VHF com munications as required and may help 
+emphasize  the content of the message or to ensure that the message will be properly understood. Whilst the use 
+of message markers is not obligatory, their general use is good practice and VTS  personnel  should apply these 
+depending on the assessment of the situation. Their use is strongly recommended when a d egree of stress or 
+urgency exists, when there are language difficulties and when re sponding to unsafe situations.  
+There are eight message markers as defin ed in IMO Resolution A.918(22) Standard Marine Communication Phrases 
+(SMCP)  [2]. Seven of them are frequently used by VTS and are explained in more de tail below. The message marker 
+should be spoken preceding the message or the corresponding part of t he message.  
+5.1.2.1.  Information  
+This indicates that the following message is restricted to observed facts, situations etc.  
+VTS INFORMATION. Water level at breakwater is 4 metres.  
+ 
+VTS INFORMATION. Container Ship Maersk Dusseldorf [position] inbound and 
+will take tugs at Swanson Dock swing basin.  
+ 
+Note: This marker is normally used for navigational and traffic information, etc.  Information is to assist on -board  
+decision -making process.  
+5.1.2.2.  Advice  
+This indicates that the following message implies the intention of the sender to influence others and may i nclude a 
+recommendation.  
+VTS INFORMATION . Container Ship Maersk Dusseldorf [position] inbound and 
+will take tugs at Swanson Dock swing basin.  
+VTS ADVICE. Reduce to safe speed .  
+ Note: The decision whether to follow the ADVICE still stays with the recipient. ADVICE does not necessarily have to 
+be followed but should be considered very carefully.  
+5.1.2.3.  Warning  
+This indicates that the following message implies the intention of the sender to alert others to potential dangers.  
+ 
+ 
+ 
+IALA Guideline  G1132 VTS Voice Communications and Phraseology   
+Edition 2.2  urn:mrn:iala:pub:g1132:ed2.2  P 11 VTS WARNING. You are approaching  shallow water distance 6 cables.  
+ 
+Note: This means that any recipient of a WARNING should pay immediate attention to the danger mentioned and 
+confirm the ship ’s position, course and speed in relation to the warning. Consequences are up to the recipient.  
+5.1.2.4.  Instruction  
+This indicates that the following message implies the intention of the sender to  direct the action of others .  
+In a VTS area, ships should comply with instructions given to the ship by a VTS unless contradictory safety and/or 
+marine environment protection reasons exist . Masters may be required to report on their actions should they 
+decide to disr egard any instruction given by a VTS.    
+It is important, therefore, that when an instruction is issued by a VTS it has the appropriate reg ulatory status and 
+authority  to do so . 
+VTS  INSTRUCTION.  Remain West of No 1 Buoy until ship X has passed.  
+5.1.2.5.  Question  
+This indicates that the following message is of interrogative character.  
+VTS QUESTION. What is your maximum draft?  
+5.1.2.6.  Answer  
+This indicates that the following message is the reply to a previous question.  An answer should not contain another 
+question.  
+VTS ANSWER. Pilot boarding 0800.  
+5.1.2.7.  Request  
+This indicates that the following message is asking for action from others with respect to the ship  and signals that 
+something is to be arranged o r provided. Request should not be used involving navigation or to modify the 
+Convention on the  International Regulations for Preventing Collisions at Sea, 1972  (COLR EGs) [8]. 
+VTS REQUEST.  Wait for pilot at (location) . 
+5.1.2.8.  Intention 
+This message marker indicates that the following message informs others about immediate navigational action that is intended to be taken. The use of this message marker is logically restricted to ships  and is not to be used by VTS . 
+  
+ 
+ 
+ 
+IALA Guideline  G1132 VTS Voice Communications and Phraseology   
+Edition 2.2  urn:mrn:iala:pub:g1132:ed2.2  P 12 5.1.3.  PHONETIC  ALPHABET  
+The phonetic alphabet is used to distinguish between letters, which sound similar when transmitted over the radio.  
+They are commonly used when transmitting call signs and in cases where a single letter is used to designate 
+something.  
+Pronunciation of the phone tic alphabet is as shown in Table 2 : 
+Table 2  Phonetic alphabet and pronunciation  
+Letter  Spelling  Pronunciation   Letter  Spelling  Pronunciation  
+A Alpha  al fah  N November  no vem  bar 
+B Bravo brah  voh  O Oscar oss cah 
+C Charlie  char  lee  P Papa  pah 
+D Delta  dell tah  Q Quebec  keh beck  
+E Echo  eck ho  R Romeo  row  me oh 
+F Foxtrot  foks trot  S Sierra  see air rah 
+G Golf  golf  T Tango  tang  go 
+H Hotel  hoh tel  U Uniform  you nee form  
+I India  in dee a  V Victor  vik tah 
+J Juliet  jew lee ett  W Whiskey  wiss  key 
+K Kilo key loh  X X-ray ecks  ray 
+L Lima  lee mah   Y Yankee  yang  key 
+M Mike  mike  Z Zulu zoo loo 
+5.1.4.  PHONETIC  NUMBERS  [NUMERALS]  
+Numbers are to be spoken in separate digits.  For example:  
+“ wun fife zeero ” for 150  
+Pronunciation of numbers shall be in the phonetic form as shown in  Table 3  : 
+Table 3  Phonetic numbers and pronunciation  
+Number  Spelling  Pronunciation    Spelling  Pronunciation  
+0 zero  zeero    Decimal  day see mal  
+1 one wun    Hundred  hun dred  
+2 two too   Thousand  tou sand  
+3 three  tree      
+4 four fower      
+5 five fife     
+6 six six     
+7 seven  seven      
+8 eight  ait     
+ 
+ 
+ 
+IALA Guideline  G1132 VTS Voice Communications and Phraseology   
+Edition 2.2  urn:mrn:iala:pub:g1132:ed2.2  P 13 Number  Spelling  Pronunciation    Spelling  Pronunciation  
+9 nine  niner      
+ 
+5.1.5.  POSITIONS  
+Position s may be passed either in latitude and longitude or relative to a mark.  In considering which method is most 
+appropriate, the sender should recogni ze that the recipient will first have to plot a position passed in latitude and 
+longitude in order to assimilat e the information.  
+When latitude and longitude are used, these shall be expressed in d egrees and minutes (and decimals of a minute 
+if necessary), north or south of the Equator, and East or West of zero degrees longitude.  
+VTS WARNING. Dangerous wreck reported in position 15 d egrees 34 minutes 
+North, 61 degrees 29 minutes West.  
+ 
+When the position is related to a mark, the mark should be a defined charted object.  
+ VTS WARNING. Fishing vessel not under command bearing 120 degrees from 
+Fairway Buoy 1.2 nautical miles.  
+ 
+5.1.6.  BEARINGS  
+The bearing of the mark or ship concerned is the bearing using 360 d egree notation from True North unless 
+otherwise stated.  Bearings may be either from  the mark or from  the ship. 
+VTS INFORMATION . Pilot boat is bearing 215 d egrees from you.  
+ 5.1.7.  
+COURSE  
+As a general term, “Course” refers to the intended direction of movement of a ship  through the water. Unless it is 
+intended to use this term in a general sense, one of the specific descriptors below should normally be used by VTS 
+and expressed in 360 -degree notation from True North unless otherwise stated.  A mariner will not normally use  a 
+decimal course ( i.e., course 162.3 d egrees identified on the VTS Decision Support Tool (DST) would be referred to 
+162 d egrees when stated over the radio). See Table 4 : 
+Table 4  Course descriptors  
+Course Made 
+Good  That course which a ship  has made good over ground, as a result of the effect of currents, 
+tidal streams and leeway.  
+Course to Make Good  That course which a ship is to make good over ground, after allowing for the effect of 
+currents, tidal streams, and leeway.  
+Track  The path followed between one position and another.  
+Planned Track  The path to be followed between one position and another.  
+Heading  The horizontal direction of the vessel's bows at a given moment  meas ured in degrees 
+clockwise from True North . 
+ 
+Example:  
+VTS ADVICE . Course to make good 127 d egrees.  
+ 
+ 
+ 
+ 
+IALA Guideline  G1132 VTS Voice Communications  and Phraseology   
+Edition 2.2  urn:mrn:iala:pub:g1132:ed2.2  P 14 5.1.8.  DISTANCES  
+To be expressed in nautical miles or cables (tenths of a  nautical mile), the unit is always to be stated.  
+5.1.9.  SPEED  
+To be expressed in knots  (nautical mile per hour) .  
+‘Speed’ refers to speed through the water. If speed over the ground is intended, then this should be stated as ‘Speed 
+over the Ground’ (SOG).  
+5.1.10.  TIME  
+Time should be given in local time in a 24 hour format.  Mariners do not usually add the suffix “hours”.  
+5.1.11.  GEOGRAPHICAL  NAMES  
+Place names should be those that are on navigational charts and publications.  
+Where this is not available then latitude and longitude should be used.  
+5.1.12.  ABBREVIATIONS  
+Abbreviations will often save time in sp eech. Many abbreviations are so commonly used in normal speech they  are 
+more familiar than the original, unabbreviated form  (i.e., radar) . Abbreviations  in radio transmissions may be used  
+provided that:  
+• they are quicker and easier to use than the full word  (e.g. , ETA/ETD in place of Estimated Time of 
+Arrival/ Estimated Time of Departure) ; 
+• they are sufficiently well known to avoid any confusion and subsequent confirmatory transmissions ; and  
+• if there is any confusion, the full term is readily substituted.  
+5.2. DELI VERING A MESSAGE  
+ 
+VTS communications should be professional, clear, concise , consistent,  and accurate.  
+Speech and vocal patterns should be adjusted in order to increase the likelihood of mutual understanding r egardless 
+of experience or native language.  
+5.2.1.  PREPARATION  WHEN  USING  VHF 
+The proper use of VHF equipment is essential if transmissions are to be successful. In particular:  
+• VTS personnel should consider the volume and positioning of the microphone.  
+• It is important to listen on the channel before transmitting to ensure there will be no interferences from another station.  
+• A brief pause is normally required before starting to speak there may be a delay in transmission after pressing the press to transm it (PTT) button.  
+5.2.2.  
+TONE  AND  VOLUME  
+The tone of the voice is crucial for mutual understanding. A message should be supported by the tone of voice used. Research has indicated that how words are expressed is just as important as what words are used.  
+Transmiss ions should be sent with a  polite  tone of calm confidence, and professionalism. VTS personnel must 
+always remain professional even if they receive overly  familiar or aggressive transmissions.  
+ 
+ 
+ 
+IALA Guideline  G1132 VTS Voice Communications and Phraseology   
+Edition 2.2  urn:mrn:iala:pub:g1132:ed2.2  P 15 The volume of the voice is important. The volume of a transmission should be at a level used for normal 
+conversation. Shouting is unprofessional and causes distortion, whilst speaking too quietly could result in the message not being heard.  
+5.2.3.  
+EMPHASIS  ON  KEYWORDS  
+The keyword is the most important part of the message. This should be spoken slightly louder  and longer than its 
+neighbouring words to provide emphasis (e.g. , WARNING SHALLOW water AHEAD of you).  
+5.2.4.  SPEECH  RATE  
+Speech rate is the speed at which a speaker conveys the message. Key points for speech rate ar e: 
+• Modulating speech at a slower rate of around 120 words per minute ( WPM ) is highly recommended for 
+clear and effective communication. 
+• In
+ emergency situations and in developing unsafe situations, a slower rate of 100 WPM should be 
+applied so important inf ormation can be clearly and accurately delivered under high -p
+ressure and 
+cognitively challenging conditions.  
+I
+n an international environment where people from different linguistic backgrounds speak with their own accents, 
+intonation and pronunciation, it is crucial to maintain an appropriate rate of speech . This increases the likelihood 
+of comprehension and reduces anxiety . 
+5.2.5.  WORD  GROUPING  AND  PAUSING  
+It is generally recogniz ed that the use of four words in a short phrase is best understood by listeners. Ther efore, 
+understanding can be enhanced considerably by dividing sentences into smaller groups , or phrases , and by pausing 
+briefly between word groups. VTS personnel can also moderate their speech rates by pausing between each word group.  
+The effect of word g rouping and pausing is important for the following reasons:  
+• It gives listeners the time to process each pack of information that is delivered.  
+• It enables speakers to prepare subsequent information for delivery.  
+• It decreases the use of unnecessary fillers like ‘um, hm, uh, …’, which hinders mutual intelligibility.  
+VTS INFORMATION . (pause)  Container ship Stardust (pause)  not under command 
+in position (pause)  2.1 nautical miles (pause)  southeast from Morrison 
+lighthouse (pause) … 
+ 1 word+(pause)+3 words+(pause)+5 words+(pause)+5 words+(pause)  +4 
+words+(pause)  
+5.2.6.  QUESTIONING  TECHNIQUES  
+Information flow within a VTS is paramount.  A VTS often gathers and disseminates information based on real time 
+situations within the VTS area. In the computer world the term ‘garbage in, garbage out’ is often used. The same 
+applies to VTS communications, if you ask the wrong questions,  you will probably get the wrong answer.  
+To ensure effective questioning the following techniques should be used: 
+• Closed Questions  
+• Open Questions  
+• Funnel Questions  
+5.2.6.1.  Closed questions  
+A closed question usually receives a one -word answer, or a short factual statement.  
+ 
+ 
+ 
+IALA Guideline  G1132 VTS Voice Communications and Phraseology   
+Edition 2.2  urn:mrn:iala:pub:g1132:ed2.2  P 16 VTS QUESTION. Do you have any defects?  
+ 
+VTS QUESTION. Are you able to see the entrance beacon?  
+5.2.6.2.  Open questions  
+Generally open questions deliberately seek longer answers and are the opposite of closed questions.  Open 
+questions usually contain terms to elicit further information.  
+VTS QUESTION. What is the nature of your problem?  
+ 
+5.2.6.3.  Funnel questions  
+This questioning technique involves the use of a series of questions. Initially general questions are asked which 
+increase in detail with each subsequent question.  With funnel questioning it may be useful to start with one or 
+more closed questions before follow ing up with more open questions.  
+VTS QUESTION. Do you see  the Princes Inner Buoy?  
+VTS QUESTION. Is the buoy lit?  
+VTS QUESTION. Is the buoy in the correct position?  
+VTS QUESTION. Describe the damage?  
+5.2.7.  AMBIGUOUS  TERMINOLOGY  
+Some words in English have meanings depending on the context in which they appear.  Misunderstandings 
+frequently occur, especially in VTS communications, and have resulted in accidents.  
+The use of local terminology should be avoided as this can lead to confusion.  For example:  
+MAY/MIG HT 
+Do not  say: “You may/might enter the fairway” . 
+Say: “ANSWER.  You have permission to enter the fairway” . 
+SHOULD  
+Do not  say: “You should anchor in anchorage Z4” . 
+Say: “ADVICE. Anchor in anchorage Z4” . 
+COULD  
+Do not  say: “You could be running into danger” . 
+Say: “WARNING.  You are running into danger” . 
+CAN  
+The word “CAN” describes the possibility, or the capability of doing something.   
+Do not  say: “Can  you adjust  your ETD from the berth by 20 minutes?”  
+Say: “QUESTION.  Are you able to adjust your ETD 20 minutes earlier ?”  
+5.2.8.  RESPONSES 
+When the answer to a closed question is in the affirmative or n egative, consider the need to repeat the appropriate 
+phrase or add an explanation in the response.  
+For a response in t he affirmative say:  
+ 
+ 
+ 
+IALA Guideline  G1132 VTS Voice Communications and Phraseology   
+Edition 2.2  urn:mrn:iala:pub:g1132:ed2.2  P 17 “Yes…” followed by the appropriate phrase . 
+For a response in the n egative, say:  
+“No…” followed by the appropriate phrase . 
+Where a message is received and only acknowledgement of receipt is needed, say “ received ”.  
+If information requested is not immediately available, advise the caller to “Stand by” and consider the need to 
+indicate the time interval within which the information will be available.  
+5.2.9.  CORRECTIONS  
+When an error is made in a message, say:  
+“Correction” plus the corrected part of the message.  
+VTS Pilot boarding time 1400.  
+CORRECTION - pilot boarding time 1430. 
+5.2.10.  REPETITION  
+When communication is difficult, phrases or words may be transmitted twice. If any part of a message is considered 
+sufficiently important, the message should  be repeated using the appropriate phrase:  
+“Repeat” followed by the corresponding part of the message.  
+VTS The tide is 1.2m – REPEAT – The tide is 1.2m . 
+ 
+When the message is not properly heard, say:  
+“Say again”.   
+5.2.11.  DISTRESS  AND  SAFETY  COMMUNICATIONS  
+Guidance on distress and safety communications is provided in the ITU publication Radio R egulations Volume 1 
+(2020) Chapter VII. [6]This includes distr ess (MAYDAY), urgency (PAN PAN) and safety (SECURIT É) calls and 
+messages and operational procedures for such calls over Digital Selective Calling ( DSC) or voice channels.  
+More detailed guidance is published by IMO in the GMDSS Manual [10]  which includes:  
+• “distress, … urgency … and safety …. communications shall have absolute priority over all other 
+transmissions”.  
+• “All stations which receive a distress alert or a call transmitted on the distress and safety frequencies … 
+shall immediately cease any transmission capable of interfering, …. set watch on the radiotelephone 
+frequency associated  …. and prepare for subsequen t traffic”.  
+• “Coast station … in receipt of distress alerts or distress calls shall ensure that they are routed as soon as 
+possible to a rescue coordination centre”.  
+A VTS may receive distress and safety communications (e .g., VTS working channel or VHF chan nel 16).  VTS 
+personnel should, therefore, be trained and practiced in responding to distress and safety communications.  
+5.3. HOW TO INTERPRET A MESSAGE  
+ 
+Interpretation of the message requires skills such as encoding in order to achieve effective communications . Just 
+as confusion can arise from errors in encoding, it can also arise from decoding especially during emergency 
+situations. There could be a number of reasons (internal/external factors) that influence the decoding procedures which should be considered,  see Figure 1 below.  
+ 
+ 
+ 
+IALA Guideline  G1132 VTS Voic e Communications and Phraseology   
+Edition 2.2  urn:mrn:iala:pub:g1132:ed2.2  P 18  
+Figure 1  Communication process  
+5.3.1.  EFFECTIVE  LISTENING  SKILLS  
+Effective listening skills are used to actively understand information provided by the speaker and it can be 
+categorized into the following steps:  
+5.3.1.1.  Listening  
+Listening involves the reception of sounds from the sender by:  
+• avoiding interruptions ; 
+• clearing one's mind of distractions ; and  
+• focus ing on the speaker.  
+5.3.1.2.  Clarity  
+The sender and receiver both have a responsibility to ensure that what is said is understood:  
+• Ask open questions to pr obe for further detail if required.  
+• Avoid asking leading questions.  
+• Avoid coming to conclusions before the sender finishes.  
+• Be aware of the sender’s choice and application of words.  
+• Encourage feedback through questioning.  
+5.3.1.3.  Interpretation 
+Interpretation not only requires verification of what the sender has said, but also the understanding of the information given.  
+Steps to ensure understanding are:  
+• Communicate your interpretation and verify its accuracy.  
+• Identify the main issues.  
+• Do not ass ume what the sender will say, particularly when receiving routine communications.  
+
+ 
+ 
+ 
+IALA Guideline  G1132 VTS Voice Communications and Phraseology   
+Edition 2.2  urn:mrn:iala:pub: g1132:ed2.2  P 19 5.3.2.  CLOSED  LOOP  COMMUNICATIONS  [READ -BACK]  
+Misunderstandings in messages received may include half -heard words or guessed -at numbers. The potential for 
+misunderstanding increases  with the complexity of messages and may cause the bridge team to:  
+• accept inadequate information received; or  
+• determine for themselves the most probable interpretation.  
+Closed -loop communication is a technique used to avoid misunderstandings . The sender gives a message, the 
+receiver repeats a received message, or an appropriate part thereof, back to the sender to obtain confirmation of 
+correct reception.  
+When the receiver correctly repeats the message back, the sender will say “YES” (a response in the aff irmative). 
+When the receiver incorrectly repeats the message back, the sender will say “ NO” (a response in the n egative) and 
+repeat the correct  message. If the sender, the person giving the message, does not get a reply back, the sender 
+must repeat it until the receiver starts closing the loop.  If there is difficulty in confirming reception of a message, 
+the sender may need to consider rephrasing the message.   
+Closed -loop communication should be used to confirm that messages from VTS personnel are correctly  received 
+and understood.  This can be achieved through the following steps:  
+• The VTS operator requesting the recipient to repeat back important information ( for example, repeat 
+advice, repeat instruction or repeat back) . 
+• The recipient reading back or acknowledging in a manner to clearly indicate they have understood the message and will take appropriate action.  
+• The VTS operator listening to the read -back to ascertain that the message has been correctly 
+acknowledged and take immediate action to correct any discrepancies revealed by the read- back.  
+VTS INFORMATION . Berth changed to Elm five, read back over.  
+SHIP  Berth changed to Acorn five, over.  
+VTS NO. Berth changed to Elm five, read back over.  
+SHIP  Berth changed to Elm five, over.  
+VTS YES. Out 
+5.3.3.  INFLUENCE  OF INTERNAL  AND  EXTERNAL  FACTORS  
+Some factors such as mental and emotional state, health, culture, working environment, distractions etc. can influence the interpretation of communications. Efforts should be made to minim ize their n egative effects on 
+communications.  
+  
+ 
+ 
+ 
+IALA Guideline  G1132 VTS Voice Communications and Phraseology   
+Edition 2.2  urn:mrn:iala:pub:g1132:ed2.2  P 20 6. PART C  STANDARD PHRASE S 
+ 
+6.1. OVERVIEW  
+ 
+The aim of this part  is to establish globally harmonize d standard phrases for use by a VTS.  VTS personnel should be 
+familiar with these phrases, which should be remembered for immediate recall. It follows that the number of 
+standard VTS phrases should be limited to those that VTS personnel can reasonably be expected to learn and this 
+section, therefore, restricts the number of standard phrases to those operational circumstances where it is judged 
+that time may be critical or where misunderstandings might compromise safety.  
+Message markers have intentionally not been included in the standard phras es as the appropriate message marker 
+may differ dependent on the context.  
+These standard phrases are not intended to replace  or contradict the International R egulations for Preventing 
+Collisions at Sea, 1972  or special local rules or recommendations made b y IMO concerning ships' routeing. Neither 
+are they intended to supersede the International Code of Signals  [8] nor to replace  normal radiotelephone practice 
+as set o ut in the ITU Radio Regulations . They are designed to complement the phrases in SMCP adapting them as 
+necessary to align with current recognize d best practice, recognising that SMCP has not been updated since 2001.  
+The following typographical conventions are used throughout this part to clearly emphas ize the recommended 
+phrases : 
+ ( ) brackets indicate that the part of the message enclosed within the brackets may be added where 
+relevant;  
+[ ]     square brackets indicate optional content ; 
+/ oblique  strokes indicate that the items on either side of the stroke are alternatives; 
+... dots indicate that the relevant information is to be filled in where the dots occur;  
+(italic letters) indicate the kind of information requested;  and 
+~ tildes precede possible words or phrases which can be used after/in association with the given standard 
+phrase.  
+6.2. GENERAL  
+ 
+6.2.1.  GENERIC  COMMUNICATIONS  
+Table 5  Generic communication messages  
+Message Element  Message Intent 
+RECEIVED  Information has been received and only acknowledgement of receipt is 
+needed  
+PERMISSION (to)  Permission for proposed action granted  
+CHECK  Examine (something) in order to  determine its accuracy, quality, or 
+condition, or to detect the presence of something  
+CONFIRM  Request verification of something: ( e.g.,  permission, instruction, action, 
+information, intentions). For example, Confirm you have received the following…?  
+CON TACT  Establish  communications  with…   
+CORRECTION  A change that rectifies an error or inaccuracy  
+ 
+ 
+ 
+IALA Guideline  G1132 VTS Voice Communications and Phraseology   
+Edition 2.2  urn:mrn:iala:pub:g1132:ed2.2  P 21 Message Element  Message Intent 
+DISR EGARD  Ignore last message / Consider that transmission as not sent  
+DO NOT  Direct or recommend that an activity may not be carried out  
+(I) REPEAT I will state my message again  
+(I) SPELL  Phonetic spelling follows  
+MAINTAIN Continue in accordance with the condition(s) specified or in its literal sense, 
+e.g., “Maintain your course”  
+NO “No” or “Permission is not granted” or “That is not correct” (response in the 
+negative)  
+OUT  End of transmission. No answer is required or expected  
+OVER End of transmission. An answer is expected  
+READ- BACK  Repeat all, or the specified part, of this message back to me exactly as received and understood  
+REPORT  Pass me the following information  
+REQUEST  A request for information or intentions  
+SAY AGAIN   When a message is not properly heard, a request to retransmit all or a portion of a transmission  
+STAND BY  Wait and I will call you  
+YES “Yes” or “Permission is granted” or “That is correct”  (response in the 
+affirmative)  
+6.2.2.  RADIO  CHECKS  
+General phrases used when replying to radio check requests  are given in Table 6 : 
+Table 6  Radio check messages  
+Message Element  Message Intent 
+HOW DO YOU READ ME  Question to the ship  on the clarity of the VTS signal strength  
+READ YOU LOUD AND CLEAR  Information that the radio check was received loud and clear  
+I AM NOT ABLE TO READ YOU  Information that the message had not been received and understood  
+6.2.3.  VTS  OPERATIONAL  STATUS  
+Table 7  VTS Operational status  messages  
+Message Element  Message Intent 
+(VTS name) OPERATING AT REDUCED 
+CAPACITY UNTIL (time) [details]  Notification that the VTS is operating at reduced capacity [due to a given 
+reason]  
+VTS OPERATIONS SUSPENDED DUE TO 
+(details) [UNTIL]  VTS operations are interrupted [due to a given reason (e.g. , protest action, 
+strike, emergency situation)]  
+ 
+ 
+ 
+IALA Guidel ine G1132 VTS Voice Communications and Phraseology   
+Edition 2.2  urn:mrn:iala:pub:g1132:ed2.2  P 22 6.2.4.  REQUESTING  REPORTS  
+Table 8  Requesting reports  messages  
+Message Element  Message Intent  
+REPORT [AGAIN] AT (location or time)  Request to report [again] when the ship  has reached a specified location or 
+time  
+REPORT WHEN LEAVING (location / VTS 
+area)  Request to report when the ship  has left the VTS area or a particular location  
+REPORT WHEN PASSING (location)  Request to report when the ship  is passing or has passed the specified 
+location  
+REPORT ETA AT (position)  Request to report the estimated time of arrival at the specified position  
+6.2.5.  CALL  REQUESTS 
+Table 9  Call requests  messages  
+Message Element  Message Intent  
+CALL (VTS/allied service) [AT (time/position)] ON (channel)  Request to contact [at the specified time or position] the VTS or allied service on a VHF channel  
+CALL AGAIN (event/time)  Request for the ship  to call the VTS again  when a specified event occurs  
+(e.g.,  after last line, when pilot boards) or in a specified time period  
+6.2.6.  USE  OF OTHER  VHF  CHANNELS   
+Table 10  Use of other VHF channels  messages  
+Message E lement  Message Intent  
+CHANGE TO CHANNEL (channel ID)  Request to change VHF channels  
+MAINTAIN WATCH ON (channel  ID) Request for the ship  to maintain a listening watch on a specified VHF 
+channel  
+6.2.7.   REPORTING  OF SHIP  IDENTIFICATION  AND  PARTICULARS  
+When entering the VTS area a ship ’s identity and particulars should have been passed in advance.  If not, these may 
+need to be clarified through an instruction to report or a question asking for specific details.    
+The messag e marker QUESTION  would normally be used prior to these message elements.  See Table 11  
+Table 11  Reporting of ship identification and particulars  messages 
+Message Element  Message Intent  
+WHAT IS YOUR (details ) Request specific information (such as last port of call, route, maximum draft 
+etc.)  
+DO YOU HAVE (details)  Request for specific information (e.g. , Pilot Exemption Certificate)  
+6.2.8.  SPEED   
+Speed when unqualified refers to speed through the water. If speed over the ground is intended, then this should  
+be qualified with Speed over the Ground (SOG) . See Table 12   
+ 
+ 
+ 
+IALA Guideline  G1132 VTS Voice Communications and Phraseology   
+Edition 2.2  urn:mrn:iala:pub:g1132:ed2.2  P 23 Table 12  Speed messages  
+Message Element  Message Intent 
+DO NOT EXCEED (speed)  Instruction that a specified speed is not to be exceeded  
+MAINTAIN SPEED  Keep a specified sp eed 
+REDUCE SPEED  Instruction or advice  for the present speed to be reduced  
+PROCEED AT SAFE SPEED  Ship  to proceed at a safe speed  
+SPEED LIMIT (speed) [IN (area of)]  Notifying a ship  of a speed limit in a specified area  
+WHAT IS YOUR MINIMUM SAFE SPEED Request to a ship  to report its minimum safe speed  
+WHAT IS YOUR SPEED  Request to report the ship  present speed  
+6.2.9.  ENGINE   
+Table 13  Engine messages  
+Message Element  Message Intent 
+KEEP YOUR ENGINES READY  Request for the ship  to keep their engines ready  
+REPORT WHEN ENGINES READY  Request to report when the engines are ready  
+ 
+6.3. PROVISION OF INFORMATION  
+ 
+6.3.1.  TRAFFIC  INFORMATION  
+Table 14  Traffic information messages  
+Message Element  Message Intent 
+AHEAD [distance] [details]  Inform a ship that there is a ship/object in front of it [distance details] [other 
+details may be added]  
+ALTERING COURSE  Inform a ship that another ship is changing direction 
+ANCHORING (in position)  Inform traffic that a ship is getting ready to anchor  
+ANCHORED (in position) Inform traffic that a ship is anchored  
+(fishing/pleasure) BOATS IN 
+(position/area)  Inform ship that traffic, with unknown intentions, is in the area  
+CONSTRAINED BY (details)  Inform traffic that a ship is restricted in her ability to deviate from the course she is following, due to some specifi c conditions (  e.g., draft)  
+CROSSING (details)  Inform traffic that a ship is proceeding in a direction near right angle with traffic flow or route.  Alternatively , the ship is proceeding through an 
+area/fairway (one side to another)  
+OVERTAKING  Inform that a ship is overtaking anothe r ship  
+DEPARTING (details)  Inform traffic that a ship is departing an area or alongside/anchor berth 
+DUE TO (details) Inform that other considerations need to be taken into account such as traffic in the area  
+ 
+ 
+ 
+IALA Guideline  G1132 VTS Voice Communications and Phraseology   
+Edition 2.2  urn:mrn:iala:pub:g1132:ed2.2  P 24 Message Element  Message Intent 
+EASTBOUND/ WESTBOUND/ 
+NORTHBOUND/ SOUTHBOUND  Directional information about a ship’s movements  
+ENTERING  Proceeding into a port/fairway/channel/area  
+INCIDENT IN (location/area)  Advising of an incident in an area/location  
+INBOUND  Ship is proceeding into a  port/fairway/channel/area  
+LEAVING  Used in the context of navigational information or advice e.g ., leaving the 
+channel  
+MEET  Encounter one or more ships  
+NAVIGATIONAL HAZARD (details)  Advising of a specific navigational hazard (e .g., derelict ship, uncharted rock, 
+pipeline leaking gas, shallow water)  
+NO TRAFFIC INFORMATION  To inform that the VTS has  no available information r egarding traffic that 
+may affect the ship’s intended movements  
+(activity ) OPERATIONS IN (position /area)  Advising of operations such as dredging/diving/survey in a specified position/ area  
+OUTBOUND  Ship is proceeding out of a port/fairway/channel/area   
+PASSING (location or ship)  Inform a ship where another a ship is relative to a location , AtoN  or a ship 
+that is overtaking another  
+UNDERWAY  Means that a ship is not at anchor, made fast to the shore, or aground  
+ 
+An example of traffic information:  
+VTS TRAFFIC INFORMATION . – Ship Northumbria AHEAD of you distance 3 miles 
+is ANCHORING in position (XX)  
+6.3.2.  WEATHER  INFORMATION 
+Table 15  Weather information messages  
+Message Element  Message Intent 
+GALE/STORM/TYPHOON EXPECTED IN 
+(location) AT (time)  Inform about pending adverse weather conditions  
+VISIBILITY AT (location) IS (x met res) Information about restricted visibility in a specified area  
+WIND (at location) (direction in d egrees  
+True/cardinal) (speed)  Communicate the wind direction from which it is coming and speed at  
+specific location (XXX)  
+6.3.3.  TIDAL/HYDROLOGICAL  INFORMATION   
+Table 16  Tidal  and hydrological information messages  
+Message Element  Message Intent 
+CURRENT DIRECTION  Indicates the direction to  which current is setting (go ing) 
+CURRENT SPEED  Indicates the speed of the current (knots or meters per second)  
+TIDE IS (rising/falling/high/low)  Information about the tidal conditions in the area  
+TIDAL CURRENT DIRECTION  Indicates the direction to which the tidal current is setting (go ing) 
+ 
+ 
+ 
+IALA Guideline  G1132 VTS Voice Communications and Phraseology   
+Edition 2.2  urn:mrn:iala:pub:g1132:ed2.2  P 25 Message Element  Message Intent 
+TIDAL CURRENT SPEED Indicates the speed of the tidal current (knots or meters per second)  
+WATER LEVEL AT (position) IS 
+(met res/cm)  Information about the water level  in the area  
+6.3.4.  INFORMATION  BROADCASTS   
+When providing Information, the VTS may direct the message to a particular ship. Alternatively, general information 
+may be to all ships in the area by a routine broadcast message.  This may contain a number of the message elements 
+listed above combining traffic information, weather information and tidal/ hydrographic  information.  A broadcast 
+is directed to “All Ships” and this call is normally repeated three times before the message itself is transmitted.  The 
+message should start with the message marker INFORMATION.   
+Broadcasts may also be used to transmit emergency information in the event of a major marine, e nvironmental, 
+security incident or on suspension of any VTS services, advising of any special restricted / safety areas and any communication restrictions or changes. In such circumstances the broadcast message should follow ITU/GMDSS 
+manual procedures . 
+An example of a routine broadcast message:  
+VTS All Ships, All Ships, All Ships  
+This is (VTS)  
+INFORMATION  
+- VLCC Shield inbound via Fiddlers Channel is constrained by her draft.   
+- Wind at Sharp Point 320 – 20 knots.  
+- Water level at Green Terminal 4.2 metres – 0.5m above prediction.  
+All ships this is (VTS) OUT  
+6.4. MANAGEMENT OF SHIP TRAFFIC  
+ 
+6.4.1.  NAVIGATING  IN THE  VTS  AREA  
+When a ship enters  the VTS area there is an exchange of information, such as:  
+• Verifying the ship ’s identity . 
+• Confirming report ing requirements . 
+• Providing relevant traffic information . 
+• Providing navigational / fairway information . 
+• Establishing compliance with IMO requirements (charts and publications, passage plan, mechanical defects, personnel shortfalls) . 
+ 
+ 
+ 
+IALA Guideline  G1132 VTS Voice Communications and Phraseology   
+Edition 2.2  urn:mrn:iala:pub:g1132:ed2.2  P 26 The VTS may also need to provide guidance, advice or instructions for the approach/entry to the VTS area such as  
+those messages shown in Table 17 : 
+Table 17  Approaching and entering a VTS area messages  
+Message Element  Message Intent 
+AVOID (details)  Request to avoid something ( e.g.,  area, location, object)  
+CHECK YOUR POSITION  Request for the ship to check their position  
+DO NOT PROCEED (details)  Instruct the ship not to continue or proceed  
+DO NOT ENTER  Instruct the ship not to enter  
+DO NOT CROSS  Instruct a ship not to cross a certain point or area ( e.g.,  the fairway or TSS)  
+DO NOT OVERTAKE  Instruct a ship not to overtake  
+KEEP CLEAR OF  Request to keep clear of an activity ( e.g.,  diving operation)  
+KEEP A SAFE DISTANCE  OF  
+(XX miles/cables/meters) [FROM]  Request for the ship to maintain a specified minimum safe distance of (state 
+unit) [from an area or an object]  
+LEAVE (details)  Instruct a ship to leave an area ( e.g.,  fairway/recommended route/track)  
+MAINTAIN ETA TO (location)  Advise, Request or Instruct to maintain a specified estimated time of arrival 
+to a location ( e.g.,  pilot boarding ground)  
+NAVIGATE WITH CAUTION  Request for the ship to navigate or proceed with caution  
+PASS (details)  Request for the ship to pass to a relative direction or area ( e.g.,  NW of 
+location)  
+PERMISSION TO ENTER (details)  Permission provided to enter an area such as a VTS area, fairway  
+PERMISSION TO CROSS (details)  Permissi on provided to cross into an area or line  
+PROCEED TO (position / area) [AT (time)]  Proceed from the present position to the specified position [at a specified 
+time]  
+REMAIN IN PRESENT POSITION  Advise, Request or Instruction to remain in a specific position  
+REMAIN OUTSIDE (area)  Advise the ship to remain outside an area  
+RETURN TO (details)  Request for the ship to return to (area, location, route)  
+WAIT FOR (details)  Request for the ship to wait for an event ( e.g.,  ship (name) leaving berth, 
+ship (name) ahead of you, improvement in visibility)  
+WIDE BERTH REQUESTED  Request for the ship to give the area or object a wide berth  
+WHAT ARE YOUR INTENTIONS  Question requesting the ship to advise of its intentions ( e.g.,  movements, 
+passing, overtaking)  
+6.4.2.  BERTHING   
+6.4.2.1.  General  
+Table 18  Entering berth  messages  
+Message Element  Message Intent 
+BERTH (name) [(port / starboard side) TO]  Notification of berth allocation [notification of side to the berth wall]  
+BERTH AVAILABLE AT (time)  Advising the time the berth is expected to be available  
+ 
+ 
+ 
+IALA Guideline  G1132 VTS Voice Communications and Phraseo logy  
+Edition 2.2  urn:mrn:iala:pub:g1132:ed2.2  P 27 Message Element  Message Intent 
+BERTH CHANGED TO (provide new berth)  Information about a new berth   
+BERTHING DELAYED UNTIL (time / by XX 
+hours) Advising that berthing will be delayed until a specified time  
+BERTH OCCUPIED  Advising that the berth is not available  
+[Ship ] LEAVING BERTH (name) AT (time)  Information that a ( ship) will leave a berth at a specified time  
+WAIT UNTIL BERTH IS AVAILABLE  Instructing or advising a ship  to wait until the berth is available  
+6.4.2.2.  Departure from berth  
+Table 19  Departure form berth messages  
+Message Element  Message Intent 
+REPORT WHEN SINGLED UP  Request for the ship  to report when it has singled up  
+REPORT WHEN READY TO DEPART  Request for the ship  to report when the last line has been let go  
+REPORT ( XX minutes ) BEFORE DEPARTURE  Request for the ship to report a specified amount of time before departing  
+6.4.3.  PROCEEDING  FROM  OR TO AN ALONGSIDE  BERTH  OR ANCHORAGE   
+6.4.3.1.  Approving permission to proceed  
+Based on the information available, the VTS assesses that it is safe and gives approval for the ship  to proceed from 
+or to an alongside berth or anchorage, subject to the discretion of the Master.  
+Prior to , or immediately following , a request to proceed from  an alongside berth or anchorage, the ship should be 
+notified of the position and intentions of other traffic or any other conflict avoidance measures and, after approval 
+has been given, other ship s should be notified of the impend ing departure (see section on “Provision of Traffic 
+Information”). See Table 20 . 
+Table 20  Proceeding (berths and anchorages) messages  
+Message Element  Message Intent 
+PERMISSION  
+TO (enter / depart / proceed)  
+FROM/TO (berth/anchorage/ 
+lock/creek)  
+[TO (location and/or subject to condition)]  Permission has been granted to proceed to undertake an activity ( e.g.,  enter, 
+depart, proceed)  
+From a location ( e.g.,  berth, ancho rage area, lock, creek, fairway, pilotage 
+area) from (departure) or to (arrival) which permission has been granted.   
+[Optional - Destination or other conditions may be included as appropriate]  
+ 
+Example where a VTS provides permission to proceed from a location:  
+VTS (ship name) PERMISSION TO (depart / proceed) FROM 
+(berth/anchorage/lock/creek). [Subject to condition]  
+ Example where a VTS provides permission to proceed to a location:  
+VTS PERMISSION TO PROCEED TO (berth name/anchorage designator)  
+ 
+ 
+ 
+ 
+IALA Guideline  G1132 VTS Voice Communications and Phraseology   
+Edition 2.2  urn:mrn:iala:pub:g1132:ed2.2  P 28 6.4.3.2.  Denying permission to p roceed  
+If the VTS assesses that it is not safe for a ship  to proceed from or to a berth or anchorage, the response from VTS 
+should be direct to the ship  and the response must be unambiguous, clear and issued with the message marker 
+INSTRUCTION. See Table 21 . 
+Table 21  Denying permission to proceed messages  
+ 
+Example where a VTS denies permission to proceed from a location:  
+VTS NO 
+INSTRUCTION. ( ship name) REMAIN ALONGSIDE/AT (location/anchor) 
+(give reason) [CALL AGAIN (in … minutes or after event has passed)]  
+ Example where a VTS denies permission to proceed to a location:  
+VTS NO 
+INSTRUCTION. ( ship name) DO NOT PROCEED TO (berth name/anchorage 
+designator) (give reason) [instructions and/or notification of expected 
+availability]  
+6.4.4.  ANCHOR  OPERATIONS  
+ 
+6.4.4.1.  Anchoring instructions  
+Table 22  Anchoring instruction messages  
+Message Element  Message Intent 
+ANCHOR (in position/area)  Instruction to a ship  to anchor in a nominated position/specified location  
+ANCHORING PROHIBITED (details)  Advising that anchoring is prohibited.  Further details may be provided on 
+specified areas or the entire VTS area  
+ANCHOR TO WAIT FOR (details)  Request for the ship  to anchor until a specified time or event ( e.g.,  tug, 
+berth, pilot)  
+DO NOT ANCHOR (details)  Request for a ship  do not anchor in a specified location ( e.g.,  fairway / 
+outside port limits)  
+REPORT WHEN ANCHOR DROPPED Request for a ship  to report when the anchor has been let go or dropped  
+REPORT WHEN AT ANCHOR  Request for a ship  to report when the ship  has settled to its anchor  
+ 
+ Message Element  Message Intent 
+CALL AGAIN IN (time)  Requesting ship to call again later or at a specific time  
+DO NOT (details)  Instruction that the permission has not been granted, or activity has been 
+cancelled ( e.g.,  leave berth)  
+NO Response to a ship  request advising that an activity has not been granted.  
+This should be backed up with a formal instruction 
+REMAIN (alongside/berth/anchorage) (give reason)  Instruct the ship  to hold position at a location ( e.g.,  alongside, a berth, 
+anchorage) for a specified reason  
+ 
+ 
+ 
+IALA Guideline  G1132 VTS Voice Communications and Phraseology   
+Edition 2.2  urn:mrn:iala:pub:g1132:ed2.2  P 29 6.4.4.2.  Weigh or heave up anchor  
+Table 23  Heave up anchor messages  
+Message Element  Message Intent 
+HEAVE UP  ANCHOR (details)  Request for a ship  to weigh or heave up anchor (details such as a specified 
+time)  
+REPORT  (XX minutes) BEFORE HEAVING 
+UP ANCHOR  Request for the ship  to report before they weigh or heave up anchor  
+REPORT WHEN UNDERWAY  Request for a ship  to report when the anchor is clear of the water and the 
+ship is underway 
+6.4.4.3.  Dragging anchor  
+Where a ship has been identified to be dragging anchor, it may be appropriate, to issue an all ships broadcast to 
+notify all ships  in the area of the developing situation.  See Table 24  
+Table 24  Dragging anchor messages  
+Message Element  Message Intent 
+CHECK YOUR ANCHOR POSITION  Request or advise for the ship  to check position of its anchor 
+YOU ARE DRAGGING ANCHOR  Sensor information indicates the ship  is dragging anchor  
+6.4.5.  PILOTAGE   
+Depending on the waterway there may be local differences in terms used such as pilot station, pilot boarding 
+ground. Similarly,  when referencing the pilot’s activities such as on bridge or on -board.  To meet the needs of the 
+pilot service  local procedures may have different nomenclatures and term inologies.  See Table 25  
+Table 25  Pilotage messages  
+Message Element  Message Intent 
+PILOT BOARDING TIME (time) [AT 
+(location)]  Information when the pilot will board the ship  at a specified time [and 
+location]  
+PILOT CANNOT BOARD [reason]  Advising that the pilot cannot board the ship  [reason may also be given]  
+PILOT DELAYED  Advising that the pilot will be delayed  
+PILOTAGE SUSPENDED  Pilotage service is unavailable  
+PILOTAGE RESUMED  Pilotage service returned to normal  
+WAIT FOR PILOT AT (location)  Instruction or Request for the ship to wait for a pilot in a specified location  
+ 
+  
+ 
+ 
+ 
+IALA Guideline  G1132 VTS Voice Communications and Phraseology   
+Edition 2.2  urn:mrn:iala:pub:g1132:ed2.2  P 30 6.5. RESPONDI NG TO DEVELOPING UNSAFE SITUATION  
+ 
+Careful consideration should be given regarding the most appropriate message m arker to be used.  See Table 26 . 
+Table 26  Responding to developing unsafe situation messages  
+Message Element  Message Intent 
+COURSE TO MAKE GOOD (details)  Advising the ship  about a recommended course  
+DANGER OF CLOSE QUARTER SITUATION 
+WITH (details)  Advising the ship is passing close to another ship  
+YOU ARE APPROACHING (details)  Advising the ship by continuing in the same direction it will approach some 
+obstacle / danger  (e.g.,  submerged wreck)  
+~ shallow water ... bearing … distance …. NM  
+~ submerged wreck ... (cardinal points) of you  
+YOU ARE LEAVING (details)  Inform the ship that it is about to leave an area ( e.g.,  fairway/recommended 
+route/track)  
+YOU HAVE DEVIATED FROM (details)  Advising the ship has deviated from intended route ( e.g.,  passage plan)  
+YOU HAVE LEFT ( details ) Inform the ship that it has left an area ( e.g.,  fairway / recommended 
+route/track)  
+YOUR POSITION (details)  Advising the ship its current position relative to a location/landmark - 
+.../ bearing ... d egrees  
+Distance … nautical miles/cables... kilometres /metres from ....  
+~ in the centre of the fairway  
+~ on / not on the radar reference line (of the fairway)  
+~ on the ... (cardinal points) side of the fairway  
+7. DEFINITIONS  
+ 
+The definitions of terms used in this Guideline can be found in the International Dictionary of Marine Aids to 
+Navigation (IALA Dictionary) at http://www.iala-aism.org/wiki/dictionary and were checked as correct at the time 
+of going to print. Where conflict arises, the IALA Dictionary should be considered as the authoritative source of definitions used in IALA documents.   
+8. ABBREVIATIONS  
+ 
+VTS Vessel Traffic Service or Vessel Traffic Services (dependent on context)  
+9. REFERENCES  
+ 
+[1] IMO. Resolution A. 1158( 32) Guidelines  for Vessel Traffic Services  
+[2] IMO. Resolution A.918(22) IMO Standard Marine Communication Phrases  
+[3] IALA. Recommendation R1012 VTS Communications  
+[4] IALA. Standard S1040 Vessel Traffic Services  
+ 
+ 
+ 
+IALA Guideline  G1132 VTS Voice Communicat ions and Phraseology   
+Edition 2.2  urn:mrn:iala:pub:g1132:ed2.2  P 31 [5] IALA. Guideline G1141 Operational Pr ocedures for Vessel Traffic Services  
+[6] ITU. (2020) Radio Regulations, Volumes 1 and 4, Recommendation ITU -R M.1171 -0 and subsequent chapters  
+[7] IMO. Resolution A.954(23) Proper use of VHF channels at sea  
+[8] ITU. (2020) Manual for use by the Maritime Mobile and Maritime Mobile -Satellite Services (Maritime 
+Manual)  
+[9] IMO. Convention on the International Regulations for Preventing Collisions at Sea, 1972 (COLREGs)  
+[10] IMO. GMDSS Manual  
+[11] IMO. International Code of Signals  

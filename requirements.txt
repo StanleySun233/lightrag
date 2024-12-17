@@ -1,0 +1,30 @@
+lightrag-hku
+nest_asyncio
+jupyter
+accelerate
+aioboto3
+aiohttp
+llama-cpp-python
+
+# database packages
+graspologic
+hnswlib
+nano-vectordb
+neo4j
+networkx
+ollama
+openai
+oracledb
+pymilvus
+pymongo
+pymysql
+pyvis
+# lmdeploy[all]
+sqlalchemy
+tenacity
+
+# LLM packages
+tiktoken
+torch
+transformers
+xxhash

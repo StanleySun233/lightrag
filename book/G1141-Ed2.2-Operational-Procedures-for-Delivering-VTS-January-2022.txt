@@ -1,0 +1,831 @@
+ 
+ 
+   
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+10, rue des Gaudines –  78100 Saint Germain en Laye, France  
+Tél. +33 (0)1 34 51 70 01 –  contact @iala -aism.org  
+www.iala -aism.org  
+International Association of Marine Aids to Navigation and Lighthouse Authorities  
+Association Internationale de Signalisation Maritime   IALA G UIDELINE  
+ 
+ 
+G1141 
+OPERATIONAL PROCEDURES  FOR DELIVERING  
+VTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Edition 2. 2 
+January  2022  
+ 
+urn:mrn:iala:pub:g 1141:ed2. 2
+ 
+    
+DOCUMENT REVISION  
+ 
+ 
+ 
+ 
+IALA Guideline  G1141 Operational Procedures for Delivering VTS  
+Edition 2.2  urn:mrn:iala:pub:g1141:ed2.2  P 2 Revisions to th is document are to be noted in the table prior to the issue of a revised document.  
+Date  Details  Approval  
+14 December 2018  First issue  
+Guideline prepared to align Recommendation R0127 (V-127) – 
+VTS Operations, following adoption of IALA Standards  Council 68  
+June 2021 Edition 2.0 R evised to reflect new and amended IALA 
+documentation and ensure the guideline provides an affective 
+document to assist authorities to implement and operate a VTS 
+in a global and harmonized manner.  Council 73 
+January  2022 Edition 2.1 Approved by Council December 2021 and published 
+January 2022, in alignment with IMO Resolution A.1158(32) 
+Guidelines for Vessel Traffic Services.  Council  74 
+July 2022 Edition 2.2 Editorial corrections.   
+   
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+    
+CONTENTS  
+ 
+ 
+ 
+ 
+ 
+IALA Guideline  G1141 Operational Procedures for Delivering VTS  
+Edition 2.2  urn:mrn:iala:pub:g1141:ed2.2  P 3 1. INTRODUCTION  .................................................................................................................................  5 
+2. PURPOSE OF THE DOCUMENT  ............................................................................................................ 5 
+2.1. ReLAtionship to other documents  ........................................................................................................... 5 
+3. CONTENT OF THE DOCUMENT  ............................................................................................................ 6 
+4. INTERNAL VTS PROCEDURES  .............................................................................................................. 6 
+4.1. Routine Procedures  .................................................................................................................................  6 
+4.1.1.  Document Control  ............................................................................................................................................................. 6 
+4.1.2.  Gathering and Recording of Information ........................................................................................................................... 6 
+4.1.3.  Equipment Operation, Maintenance, Calibration and Updating  ....................................................................................... 7 
+4.1.4.  Public Relations  .................................................................................................................................................................  7 
+4.1.5.  Security  .............................................................................................................................................................................. 7 
+4.1.6.  Training  .............................................................................................................................................................................. 7 
+4.1.7.  Watch Hando ver ................................................................................................................................................................ 8 
+4.1.8.  Vessel Handover  ................................................................................................................................................................ 8 
+4.1.9.  Maintenance of Nautical Publications and charts  ............................................................................................................. 8 
+4.1.10.  Casualty, Incidents and near -miss Recording  .................................................................................................................... 8 
+4.1.11.  Administrative/ Management  ........................................................................................................................................... 9 
+4.2. Emergency Procedures  ............................................................................................................................ 9 
+5. EXTERNAL VTS PROCEDURES  ............................................................................................................ 10 
+5.1. Routine Procedures  ............................................................................................................................... 10 
+5.1.1.  VTS Voice Communication  ............................................................................................................................................... 10 
+5.1.2.  Pre-Arrival Information  .................................................................................................................................................... 11 
+5.1.3. Vessels Entering VTS Area  ............................................................................................................................................... 11 
+5.1.4.  Vessels movements Within VTS Area  .............................................................................................................................. 11 
+5.1.5.  Monitoring and management of vessel traffic  ................................................................................................................ 12 
+5.1.6.  Permission to Proceed From or To an Alongside Berth or Anchorage ............................................................................. 12 
+5.1.7.  Responding to developing unsafe situations  ................................................................................................................... 13 
+5.1.8.  Vessels at Anchor ............................................................................................................................................................. 13 
+5.1.9.  Vessels at Berth  ............................................................................................................................................................... 13 
+5.1.10.  Vessels Departing the VTS Area  ....................................................................................................................................... 14 
+5.1.11.  Transition between Adjacent VTS Areas  .......................................................................................................................... 14 
+5.1.12.  Adverse Environmental Conditions  .................................................................................................................................  14 
+5.1.13.  Environmental Protection ................................................................................................................................................ 14 
+5.1.14.  Digital Maritime Services  ................................................................................................................................................. 15 
+5.1.15.  Interaction with Allied Services  ....................................................................................................................................... 15 
+5.2. Emergency Procedures  .......................................................................................................................... 15 
+5.2.1.  Collision, Capsizing, Sinking, Grounding, Fire Onboard, Man Overboard ........................................................................ 15 
+5.2.2.  Pollution  .......................................................................................................................................................................... 16 
+5.2.3.  Places of Refuge  .............................................................................................................................................................. 16 
+5.2.4.  Med ical Emergency  ......................................................................................................................................................... 16 
+ 
+    
+CONTENTS  
+  
+ 
+ 
+IALA Guideline  G1141 Operational Procedures for Delivering VTS  
+Edition 2.2  urn:mrn:iala:pub:g1141:ed2.2  P 4 5.2.5.  Vessel Not Under Command (NUC)  .................................................................................................................................  16 
+5.2.6.  Security Incident  .............................................................................................................................................................. 16 
+5.2.7.  Protest Action  .................................................................................................................................................................. 16 
+5.2.8.  Natur al Disaster  ............................................................................................................................................................... 17 
+6. EVALUATION OF PROCEDURES  ......................................................................................................... 17 
+7. DEFINTIONS ..................................................................................................................................... 17 
+8. ABBREVIATIONS  .............................................................................................................................. 17 
+9. REFERENCES  .................................................................................................................................... 17 
+ANNEX A  NAVIGATIONAL SUPPORT –  PRE-ASSESSMENT CONSIDERATIONS .......................................... 19 
+ANNEX B CONSIDERATIONS FOR INFORMATION THAT A VTS MAY REQUEST FROM A VESSEL IN 
+EMERGENCY SITUATIONS  ..................................................................................................... 20 
+ 
+ 
+ 
+IALA Guideline  G1141 Operational Procedures for Delivering VT S  
+Edition 2.2  urn:mrn:iala:pub:g1141:ed2.2  P 5 1. INTRODUCTION  
+ 
+To ensure the harmonized delivery of VTS worldwide p rocesses  and procedures should be implemented in a manner 
+that are consistent with Recommendation R0127  (V-127) VTS Operations  [1] relating to implementing processes 
+and procedures  to ensure standards are consistently maintained and the s ervice is delivered accurately . 
+For the purposes of this Guideline:  
+• Process : “is defined as a series of actions or steps taken in order to achieve a particular end.”  
+• Procedure : “is defined as an established or official way of doing something.” 
+Processes and procedures provide the mechanism to:  
+• Ensure tasks are performed correctly and that the provision of VTS is consistent globally;  
+• Ensure conformance with the entity’s policy and regulatory framework;  
+• Provide guidance for decision- making ; and  
+• Streamline internal and external processes.  
+IMO Reso lution A.1158( 32) Guidelines  for Vessel T raffic Services  [2] states that: 
+a. Vessel traffic services are provided worldwide and make a valuable contribution to safety of 
+navigation, improved efficiency of traffic flow and the protection of the marine environment. 
+b. The level of safety and efficiency in the movement of maritime traffic within an area covered 
+by vessel traffic services is dependent upon close cooperation between those operating the 
+vessel traffic services and participating ships . 
+c. The use of differing procedures may cause confusion to ship masters, and that vessel traffic 
+services should be established and operated in a harmonized manner and in accordance with internationally approved guidelines . 
+2. PURPOSE OF THE DOCUMENT  
+ 
+The purpose of this Guideline is to provide a framework for authorities to implement processes and procedures 
+associated with the provision of VTS.  
+2.1. RELA TIONSHIP TO OTHER DOCUMENTS 
+ 
+IALA Guideline G1141 Operational procedures for Vessel Traffic Services  [3] is associated with Recommendation 
+R0127 (V-127)  VTS Operations a normati ve provision of IALA Standard S1040 Vessel Traffic Services (VTS) [4]. To 
+demonstrate compliance with the Recommendation the provisions of this Guideline need to be i mplemented.  
+Note: This Guidance should be read in conjunction with Recommendation R0132 Quality Management for Aids to Navigation Authorities (O- 132)  [5] and Guideline G1052 Quality Management Systems for AtoN Service Delivery  [6], 
+noting that G1052 states that documentation for the Quality Management System (QMS) should include, inter alia:  
+• Procedure documents, e.g. , Operating guidelines, operating procedures, work instructions  
+• Record keeping 
+ 
+ 
+ 
+ 
+IALA Guideline  G1141 Operational Procedures for Delivering VTS  
+Edition 2.2  urn:mrn:iala:pub:g1141:ed2.2  P 6 3. CONTENT  OF THE DOCUMENT  
+ 
+The Guideline describes proce sses and  procedures associated with:  
+• Day-to-day operation s to; 
+• provide timely and relevant information on factors that may influence the vessel’s movements 
+and assist onboard decision- making ; 
+• monitor and manage vessel traffic to ensure the safety and efficiency of vessel movements ; and  
+• respond to developing unsafe situations . 
+• Management  and administration to ; 
+• ensur e the VTS operates in accordance with relevant international conventions and IMO 
+instruments, IALA standard s and national law ; and  
+• set operational objectives for the VTS that are consistent with improving safety and efficiency of 
+vessel  traffic and protection of the environment  and routinely evaluating that they are being 
+achieved . 
+These processes and procedure s are separated into activities that are either internal or external  to the VTS, and 
+subsequently split into  routine  or emergency : 
+• Internal  Procedures  – procedures  that cover  the day-to-day running of a VTS,  including but not limited 
+to the operation  of syste ms and sensors, i nteractions  among the staff and  the internal manag ement  etc. 
+• External  Procedures  – procedures  that cover the interacti on with  participating  ships and  allied  services.  
+4. INTERNAL VTS PROCEDURES  
+ 
+VTS authorities should implement processes and procedures for all internal activities related to the VTS. A clear 
+distinction should be made between  routine and emergency activities as described below.  
+Recognizing that activities may vary between VTS , these may be further adapted to suit local needs . 
+4.1. ROUTINE PROCEDURES  
+ 
+4.1.1.  DOCUMENT CONTROL  
+Processes and procedures  should be  documented , regularly  reviewed  and version control maintained. These 
+documents should be availa ble to VTS personnel  and form an integral  part of training  where adherence  is routinely 
+monitored .  
+Further, t o achieve collaboration, it is recommended that these procedures (or part of them) may be shared with 
+allied services .  
+4.1.2.  GATHERING AND RECORDING OF INFORMATIO N 
+Provision should be  made for the storage, security, retrieval and presenta tion of this information . This type  of 
+information  may  include:  
+• Communications  (inter nal and/or  external)  
+• Sensor  data  (i.e., data  used  to generate the traffic  image  such  as radar,  CCTV,  AIS) 
+ 
+ 
+ 
+IALA Guideline  G1141 Operational Procedures for Delivering VTS  
+Edition 2.2  urn:mrn:iala:pub:g1141:ed2.2  P 7 • Vessel  data and voyage  information  (e.g., vessel particulars,  cargo data,  including vessel  movem ent 
+information)  
+• Meteorological  and hydro graphic  data 
+• Data from  other sources 
+The internal procedures should specify the time period for which VTS information is stored.  This time  period  should  
+be such  that it allows for the full retrieval of data  post -incident/acci dent, in compliance  with  national  
+requirements  and those  of the  incident /accident  investigation  procedures  of the VTS provider  and other  interested  
+parties.  
+4.1.3.  EQUIPMENT OPERATION , MAINTENANCE , CALIBRATION AND UPDATING  
+All manuals  and handbooks  for equipment  operation,  maintenance  (preventative and remedial), calibration and  
+updating should  be properly  maintained and  readily  available  to the appropriate  personnel.  
+Key considerations  include: 
+• Descriptions of equipment and systems used in the VTS  
+• Operation  of equipment,  to cover  all normal  and emergency  procedures  
+• Determin ing performance availability  criteria for equipment , including the availability of VTS during 
+maintenance or other outages  
+• Categoriz ation  and prioritiz ation  of maintenance  and defects  
+• Calibration  of sensors within  specified  toler ance level  
+• Updat es to  equipment  (hardware  and software)  and their  associa ted manuals/handbooks  
+• VTS availability due to maintenance or other outages . 
+4.1.4.  PUBLIC RELATIONS  
+There should  be a documented  processes and procedures to deal with  media  and public  relations issues. Issues for 
+considerati on may  include:  
+• Nominated  lead  department  for public  relations  
+• Publication of ongoing activities within the VTS area  
+• Protection  of sensitive  information  
+4.1.5.  SECURITY  
+Processes and p rocedures  should  be clearly documented and consistent with  local and national  requirements.  As 
+a minimum,  they should ensure  the securi ty for: 
+• Data transmission  and storage  (e.g., Cyber Security) ; 
+• VTS personnel;  and 
+• VTS buildi ngs and structures.  
+Procedures should reflect any involvement of the VTS with the Port Facility Security Plan ( PFSP ) as per the 
+International Ship and Port facility Security Code (ISPS)  [7]. 
+4.1.6.  TRAINING  
+Processes and procedures should be available to ensure that:  
+• VTS personnel are appropriately trained and qualified for their VTS duties ; 
+ 
+ 
+ 
+IALA Guideline  G1141 Operational Procedures for Delivering VTS  
+Edition 2.2  urn:mrn:iala:pub:g1141:ed2.2  P 8 • Qualifications and operational performance a re maintained and confirmed through performance 
+assessments undertaken at regular intervals ; and  
+• Training records of VTS personnel are maintained .  
+Please note, Guideline G1156 Recruitment, training and assessment of VTS personnel  [8] provide s further guidance 
+on the training and assessment of VTS personnel.  
+4.1.7.  WATCH HANDOVER  
+Watch  handover  arran gements  should  be formaliz ed and include,  as an e xample, information  on: 
+• Present traffic  situa tion; 
+• Expected/developing traffic  situati ons; 
+• Incidents  and special operations  (e.g., SAR or military operations);  
+• Waterway conditions;  
+• Environme ntal condi tions (e.g., meteorological conditions and tidal conditions);  
+• Status of AtoN;  
+• Equipment  performance /availabilit y; 
+• Status  of allied  services  (e.g., pilotage, port and tug services);  
+• Personnel  availability;  
+• Appropriate  times  for watch  handover;  and 
+• Method  for documenting the hand over. 
+4.1.8.  VESSEL HANDOVER  
+The arrang ements  for vessel  handover between  adjacent  sectors  or areas sh ould  be clearly laid down. 
+Componen ts may  include:  
+• Mutual  understanding of the handover  procedur es. 
+• Identificat ion of information to be  communicated  between operators  (e.g., communication  channel,  
+vessel  iden tification,  etc.). 
+• Method  for documenting the vessel hand over. 
+4.1.9.  MAINTENANCE OF NAUTICAL PUBLICATIONS AND CHARTS  
+A VTS provider  should  ensure  that arrangem ents are in place  for maintaining,  updating and disseminati ng nautical 
+publica tions and charts  (paper  and/or electro nic). 
+4.1.10.  CASUALTY , INCIDENTS AND  NEAR-MISS RECORDING  
+The arrangements for the gathering and exchange  of information on i ncidents, accidents and/or near -misses in the 
+VTS area should be described . This may include processes and procedures to ensure that all recording equipment 
+is operating correctly. This may also include  the procedures for incident reporting and dissemination of information 
+to relevant pa rties.   
+Please note, IALA Guideline G1118  Marine casualty / incident reporting and recording, including near -miss 
+situations as it relates to VTS  [9] provides further information on developing and establishing processes for the 
+reporting, recording and analysis of marine casualties, incidents and near- miss situations.  
+ 
+ 
+ 
+ 
+IALA Guideline  G1141 Operational Procedures for Delivering VTS  
+Edition 2.2  urn:mrn:iala:pub:g1141:ed2.2  P 9 4.1.11.  ADMINISTRATIVE / MANAG EMENT  
+Processes and procedures should be implemented to demonstrate that the responsibilities , practices, policies and 
+procedures, exercised by an authority to provide strategic direction , ensure objectives , manage risk and use 
+resources responsibly and with accountability are monitored and evaluated on a routine basis . This should include 
+documentation relating to:  
+• VTS Objectives  – Procedures to monitor and assess that the objectives set for the VTS are met and 
+regularly reported to management.  Aspects and considerations include : 
+• Setting  performance measures, including both positive (leading) and negative (lag) performance 
+measures ; 
+• Establishing a framework to regularly assess the performance measures ; and  
+• Reporting to management.  
+• Evaluation  – Procedures to regularly  carry out an evaluation to ensure that the VTS operational 
+objectives have been met, and the problems identified and defined for implementing the VTS have 
+been either alleviated or at least reduced to an acceptable level.  Aspects and consideration in 
+undertaking the evaluation include : 
+• The need for the VTS , which may include monitoring and identifying changes that may have 
+occurred since the VTS was implemented  or when previous evaluation was made regarding the 
+volume of traffic and degree of risk ; 
+• An operational evaluation of the VTS ; and  
+• An evaluation of the operational objectives and the list of problems requiring attention.  
+• Policies  – Procedures for maintaining policies associated with VTS, such  as qualifications and training, 
+compliance and enforcement.   
+Please note Guideline G1131 Setting and Measuring VTS Objectives  [10] provides further guidance for comp etent 
+authorities and VTS Authorities for setting objectives for a VTS and achieving the obligations associated with SOLAS 
+regulation V/12 (Vessel Traffic Services)  [11] and IMO Resolution A.1158 (32)[2]. 
+4.2. EMERGENCY PROCEDURES  
+ 
+A VTS provider  should  have  documented contingen cy plans to ensure  the safety of VTS personnel  and for the 
+continuity  of operations  in the event of an eme rgency. T he VTS provider should have  plans  to address  events  such  
+as: 
+• System  and equipment  failure : 
+• Loss of external co mmun icatio ns; 
+• Loss of inter nal com munications;  
+• Loss of funct ionality of se nsor equipment; and 
+• Loss of informatio n mana gement system s. 
+• Internal  emergencies,  for example , fire and flood  
+• Forced evacuation  of VTS centre  
+• Personnel  medical  emergencies;  and 
+• Security  incidents  
+The following issues may  be included in these plans:  
+ 
+ 
+ 
+IALA Guideline  G1141 Operational Procedures for Delivering VTS  
+Edition 2.2  urn:mrn:iala:pub:g1141:ed2.2  P 10 • Remedial action  
+• Callout  procedures  
+• Fall- back  options  
+• Media or allied services communications  
+• Recording of incident  
+• Data safeguarding  
+• Post -emer gency  debriefing  
+5. EXTERNAL VTS PROCEDURES  
+ 
+A VTS provider should implement processes and procedures for all external activities related to the VTS  such as the 
+interaction  between  VTS and:   
+• Vessel traffic, inc luding: 
+• the provision of timely and relevant information on factors that may influence the vessel 's 
+movements and assist onboard decision making;  
+• the monitoring and management of vessel  traffic to ensure the safety and efficiency of vessel 
+movements;  
+• responding to developing unsafe situations ; and  
+• communication and processing of mandatory reporting requirements from vessels and other 
+information as deemed appropriate.  
+• Allied services .  
+A clear distinction should be made between  routine and emergency act ivities as described below.  
+Recogni zing that activities may vary between VTS these may be further adapted to suit local needs . Similarly, the 
+exchange of information  should be st andardiz ed where  possible .  
+5.1. ROUTINE PROCEDURES  
+ 
+5.1.1.  VTS  VOICE  COMMUNICATION  
+Processes and p rocedures to ensure that VHF Communication is timely, clear, concise and unambiguous  should be 
+established . In VHF communications  with vessels,  the IMO  Standard Marine  Communication  Phrases (SMCP) 
+(reference Resolution  A.918(22)  [12]), Proper use of VHF Channels at Sea (IMO Resolution A.954(23)  [13]), and IALA 
+Guideline G1132  VTS Voice Communications and Phraseology  [14] should  be used  whenev er applicable.  
+Procedures should also include list of the VTS communication  channels used and monitored in the VTS area.  
+Please note, Guideline G1132 VTS V oice Communications and Phraseology  provides further information to assist 
+authorities implement practices associated with ensuring VTS communications are harmonized through the use of 
+standard message structure and phrases.   
+ 
+ 
+ 
+ 
+ 
+IALA Guideline  G1141 Operational Procedures for Delivering VTS  
+Edition 2.2  urn:mrn:iala:pub:g1141:ed2.2  P 11 5.1.2.  PRE-ARRIVAL INFORMATION  
+Prior to arriving at the VTS area, a vessel may be required to provide information and notify of its intent to enter 
+the VTS area. The VTS p rovider  should  specify  the format  and timing of pre-arrival informatio n, if possible  by 
+non-verbal means, see section 5.1.14. This may for example  include:  
+• Route information  
+• ETA 
+• Vessel Identity (Name, I MO numb er, Call Sign, MMSI)  
+• Vessel dimensions as relevant  
+• Vessel dr aft 
+• Air draft  
+• Hazardo us, dange rous or polluting  goods details  
+• ISPS security  level  
+• Information about any vessel def ects or deficie ncies 
+• Other  specified detail s 
+Further, processes and procedures to support the arrival of vessels to the VTS area  should be established. These 
+should  include:  
+• communication  requir ements  for participating  ships ; 
+• reporting requirements for pre-arrival information;  
+• non-compliance  with reporting requirements ; and 
+• information  exchange  with  allied  services  
+5.1.3.  VESSELS ENTERING VTS  AREA 
+Processes and procedures should be established for when vessels enter the VTS Area . These may include : 
+• Establishing co mmunications and verifying vessel  identity , position and intention . 
+• Information  exchange,  such as : 
+• Reporting requ irements  
+• Provide re levant traffic inf ormation  
+• Provide navi gational / fairway informati on 
+• Vessel defects or deficiencie s, such as navigation or manoeuvring equipment failure  
+• Updating information  with  allied  services  
+5.1.4.  VESSELS MOVEMENTS WITHIN VTS  AREA 
+Procedures  should  be established  for vesse l movements within  a VTS area.  These may  include:  
+• Repo rting formalities  
+• Provision  or exchange  (AIS, VDES or other means)  of relevant  information  to participat ing ships  at 
+regular intervals , on request  or as deemed  necessary  by the VTS,  including:  
+• environmental conditions;  
+• traffic sit uation;  
+ 
+ 
+ 
+IALA Guideline  G1141 Oper ational Procedures for Delivering VTS  
+Edition 2.2  urn:mrn:iala:pub:g1141:ed2.2  P 12 • navigati onal co nditio ns; 
+• traffic sep arations ; 
+• overtaking restrictions; 
+• warnings and res trictions concerning the movement  of traffic in the area;  and 
+• Maritime Safety Information . 
+• Special provisions  for vessels carrying  hazardous , dangerous  or polluting cargo  
+• Compliance  with  pilota ge requirements  
+• Non-compliance  with the requirements and procedures in the VT S area 
+• Monitor  and if possible communicate  with  vessels  not required  to participate  in the VTS 
+• Information  exchange/update  on allied  services  
+5.1.5.  MONITORING AND MANAGEMENT OF VESSEL  TRAFFIC  
+Procedures for the monitoring and management of vessel  traffic should be established. These may include:  
+• Forward planning of vessel  movements  
+• Organizing vessel s underway  
+• Organizing space allocation  
+• Establishing a sy stem of voyage or passage plans  
+• Ensuring compliance with the regulatory provisions  
+5.1.6.  PERMISSION TO PROCEED FROM OR TO AN ALONGSIDE BERTH OR ANCHORAGE  
+A vessel’s departure from or arrival to a berth  or anchorage , or when entering a lock or confined waterway is a 
+critical moment when a vessel’s movements may have a direct influence on other vessels nearby.   
+In particular, t he departure of a vessel  from a berth is a critical moment when situational awareness of bridge staff 
+on the departing vessel  may be diverted and impaired by internal or jetty -side issues and when other vessel s in the 
+immediate vicinity might be surprised by the unexpected movement of another vessel  into the fairway.  
+Processes and p rocedures for a VTS responding to a request from a vessel  for permission to proceed from or to a 
+berth or anchorage  may include:  
+• Require ments for a vessel  to request permission to proceed when it is ready to depart  
+• Provision of relevant traffic information t o the departing vessel  prior to departure  
+• Standard and formal message for approval from the VTS for a vessel  to proceed  
+• Standard and formal message for refusal from the VTS for a vessel  to proceed  
+Permission for a vessel to proceed means that, based on the information available, the VTS assesses that it is safe 
+and gives approval for the vessel to proceed on its  intended course of action, subject to the discretion of the master .  
+Permission for a ve ssel to proceed may be subject to conditions ( e.g., details received from the vessel, known 
+fairway and traffic) which may be contained in the message.   
+Refusal for a vessel to proceed should be unambiguous, clear and may be issued as an instruction.  
+ 
+ 
+ 
+ 
+ 
+IALA Guideline  G1141 Operational Procedures for Delivering VTS  
+Edition 2.2  urn:mrn:iala:pub:g11 41:ed2.2  P 13 5.1.7.  RESPONDING TO DEVELOPING UNSAFE SITUATIONS  
+Procedures for responding to developing unsafe situations should be established, and may include:  
+• A vessel  unsure of its route or position  
+• A vessel  deviating from the route  
+• A vessel  requiring guidance to an anchoring position  
+• A vessel  that has defects or deficiencies, such as navigation or manoeuvring equipment failure  
+• Meteorological conditions ( e.g., low visibility, strong winds)  
+• A vessel  at risk  of grounding or collision  
+• Emergency response or support to emergency services  
+• A vessel  deviating from passage plan  
+• Assistance to a vessel  to support the unexpected incapacity of a key member of the bridge team  
+IALA Guideline G1089 Provision of VTS Services  [15]states that “before navigational support is provided and if time 
+permits, a VTS should make an assessment of capabilities and conduct other relevant chec ks” whilst recognizing 
+that, when the need is observed to be necessary by the VTS, early intervention is likely to be necessary, which may 
+preclude pre -assessment checks being carried out.  
+Some considerations for making a pre -assessment prior to the provis ion of navigational support are provided in 
+annex  A. 
+Please note, Guideline G1089 Provision of VTS Services  provides further guidance on the provision of a VTS to 
+participating ships in a harmonized manner in accordance with IMO Resolution A.1158( 32) and IALA Standards.  
+5.1.8.  VESSELS AT ANCHOR  
+Procedures  should  be established  for vessels  at anchor  in a VTS area. Depe nding on the capability  of the VTS 
+to monitor  the vessel  position  under prevailing  conditions, these  may include:  
+• Anchorage  assignment  
+• Communication  requir ement s 
+• Reporting  requirement  for vessels  prior to leaving  the anchor age 
+• Non -compliance  with  the requirements  and procedures  for the VTS area  
+• Information  exchange /update  on allied  services  
+5.1.9.  VESSELS AT BERTH  
+Processes and p rocedures  should  be establish ed for  vessels at berth  in a VTS area. Depending  on the capability  of 
+the VTS to monitor  the vessel  position  under prevailing  conditions, these  may include:  
+• Reporting  requirements  for vessels on arrival at berth  
+• Non -compliance  with  reporting requirements  
+• Security  requirements  including security level  
+• Special requirements  to maintain  a communication  watch  
+• Need  for restrictions  for other  vessels  passi ng the berth  (e.g., during bunkering or crane operations)  
+• Reporting  requirement s for vessels  prior to leaving  the bert h 
+• Information  exchange /update  on allied  services  
+ 
+ 
+ 
+IALA Guideline  G1141 Operational Procedures for Delivering VTS  
+Edition 2.2  urn:mrn:iala:pub:g1141:ed2.2  P 14 5.1.10.  VESSELS DEPARTING THE VTS  AREA 
+Processes and p rocedures  should  be established  for vessels departing  the VTS area.  These may  include:  
+• Reporting  requirement s for vessels prior  to departing the area  
+• Non -compliance  with  reporting  requirements  
+• Handover  requirements  with  adjace nt or next VTS 
+5.1.11.  TRANSITION BETWEEN ADJACENT VTS  AREAS 
+Processes and p rocedures should  be establish ed for  vessels  transiting  between  adjacent  VTS areas. The handover  
+arrangements  may  include:  
+• Transfer of vessel  information  such  as identi fication,  cargo, destina tion and ETA 
+• Process  for communication  procedu res 
+• Process  to ensure  vess el monitoring  
+5.1.12.  ADVERSE ENVIRONMENTAL CONDITIONS  
+In situa tions of adverse  environm ental con ditions within  the VTS area,  such  as poor visibility, strong  currents or 
+tidal streams,  high winds,  ice etc. special processes and p rocedures  may be requi red. These may  include:  
+• Restriction  or prohibition  on vessel mov ements 
+• Additional  reporting requirements  
+• Additional  separation  between  vessels  
+• Additional  requirements  (e.g., mandatory  tug service,  pilot,  etc.) 
+Special consideration  may  need  to be given  depending on vessel  characteris tics and local geography  and 
+conditio ns. 
+5.1.13.  ENVIRONMENTAL PROTECTION  
+The role of VTS to assist with environmental protection may include marine conservation measures is increasingly 
+being recognized internationally as a means to:  
+• mitigate risks such as ship collisions with cetaceans  and disturbance of marine mammals in nursery 
+areas;  
+• mitigate the effect of ship wash on the shore s in the vi cinity of low-lying  communities; and  
+• support the protection of Particularly Sensitive Sea Areas (PSSAs)  or locally declared environmentally 
+sensitive areas.  
+It may be appropriate to develop processes and procedures to:  
+• broadcast relevant inf ormation on time s and locations;  
+• interact with individual vessel s in the vicinity of marine mammals;  
+• keep p rotected areas clear of traffic;  
+• advise speed restrictions where marine mammals have been sighted, or t o reduce ship wash on the 
+shore s; 
+• re-route traffic away from s ightings; and  
+• collect information to identify potential interaction hotspots to assist in planning future mitigation 
+measures . 
+ 
+ 
+ 
+IALA Guideline  G1141 Operational Procedures for Delivering VTS  
+Edition 2.2  urn:mrn:iala:pub:g1141:ed2.2  P 15 5.1.14.  DIGITAL MARITIME SERVICES  
+Where the VTS provides information in digital format, p rocesses and procedures on digital information exchange 
+should be established. This information may include , for example, the use of AIS messages to provide informatio n 
+on weather , virtual AtoN  or the exchange of route information  between vessels and VTS . 
+The procedures should  include a description  of the digital information delivered and the communication means 
+used for the information exchange.  
+5.1.15.  INTERACTION WITH ALLIED SERVICES  
+Processes and p rocedures should be established to cover the interaction  between VTS and  allied services , for example:  
+• Pilots  
+• Tugs and tug operators  
+• Icebreakers and icebreaker operators  
+• The organizers of marine events  
+• Shipping ag ents  
+• Gover nment  agencies,  including law enforcement  agencies  
+Please note, IALA Guideline G1102 VTS Interaction with Allied or Other Services  [16] identifies issues to be 
+considered and the principles to successfully interact between VTS and allied or other services.  
+5.2. EMERGENCY PROCEDURES  
+ 
+The activities  of the VTS centre  should be maintained  during any emerg ency response. 
+Other authorities  (e.g., Maritime  Rescue  Co-ordination  Centre  (MRCC))  might  be resp onsible  for handling  external 
+emergencies  within the VTS area. In  that case , proced ures on  the interaction between  the VTS and these  authorities  
+need  to be establish ed. 
+I
+ncidental co -o
+peration with emergency services, such as Search and Rescue and Pollution Control may be 
+conducted in accordance with pre -e
+stablished contingency plans in which the procedures for interaction with allied 
+or other services are laid down and responsibilities established.  
+Des
+pite this, t he VTS may be one  of the first to respond to a call from a vessel that has an emergency situation.  It is 
+important that VTS requests and collects any further informatio n to help in response activities and to pass on to 
+other authorities.  Some considerations for information that a VTS may  try to establish from the vessel under these 
+situations can be found in a nnex B.  
+5.2.1.  COLLISION , CAPSIZING , SINKING , GROUNDING , FIRE ONBOARD , MAN OVERBOARD  
+Processes and p rocedures  should be establish ed to deal  with  situation s such  as collision,  capsiz ing, sinking, 
+grounding,  fire onboard  and man  over board . Actions  may  include  the following  actions:  
+• Alert  MRCC; 
+• Inform  and co-operate with  relevant  emergency  services;  
+• Inform  relevant  regulat ory authority/ies;  
+• Act on local call-out procedures;  
+• Support on -scene coordination;  
+• Consider  back -up VTS personnel;  
+• Promulgate  or relay  information  concerning situations with  vessels in VTS area;  
+ 
+ 
+ 
+IALA Guideline  G1141 Operational Procedur es for Delivering VTS   
+Edition 2.2  urn:mrn:iala:pub:g1141:ed2.2  P 16 • Restrict  traffic in the area; 
+• Alert allied services and other  support  units; and 
+• Ensure that a proper log is maintained.  
+5.2.2.  POLLUTION  
+Pollution  incident  processes and p roce dures  should  be establis hed. The following  actio ns may  be included:  
+• Alert  relevant  environmental  authority  and/or  service(s);  
+• Alert  relevant  response  authority  and/or  service(s) ; 
+• Inform  and co-operate with  relevant  regulatory  authority/ies;  
+• Assess  scale  of incident  and call in specialist  support , as appropriate;  
+• Promulgate  information  concerning incident  to vessels  in VTS area;  and 
+• Restrict  traffic movements in the area. 
+5.2.3.  PLACES OF REFUGE  
+Places of Refuge p rocesses and p rocedures should be developed, depending on national requirements and the 
+particular arrangements arising out of the implementation of IMO Resolution A.949(23) Guidelines on Places of 
+Refuge for Ships in Need of Assistance  [17]. 
+5.2.4.  MEDICAL EMERGENCY  
+Processes and p rocedures  for medical  emergencies  should  be establish ed. Actions  may  include:  
+• Inform  MRCC  ; 
+• Inform  coast  radio  station; 
+• Consider  special man oeuv ring requirements ; and  
+• Relay information from responsible health authority to arriving vessels suspected of being infected 
+with a contagious disease that require s special care e.g., quarantine . 
+5.2.5.  VESSEL NOT UNDER COMMAND (NUC)  
+Processes and p rocedures  in the event  of a “vessel  not under  command” should  be established. Actions  may 
+include:  
+• Promulgate  information  concerning incident  to vessels  in the VTS area;  
+• Obtain  detailed  information  about  onboard  situation;  
+• Maintain  communication  with  vessel;  
+• Assess vessel’s  proximity  to danger  (danger  to vessel  itself and other  traffic);  and 
+• Alert allied services  and other  support  units, if appropriate.  
+5.2.6.  SECURITY INCIDENT  
+In the event  of a security incident , processes and procedures sh ould  be established. Procedures  should  reflect any  
+involv ement of  the VTS with  the Port Facility  Security  Plan  (PFSP ) as per the International Ship  and Port  facility  
+Security  Code  (ISPS) [7]. 
+5.2.7.  PROTEST ACTION  
+Processes and p rocedures  should  be established  to respond  to protest action  in the VTS area.  Throughout  any 
+protest action,  the safety  of vessel s and protestors  is paramount.  
+ 
+ 
+ 
+IALA Guideline  G1141 Operational Procedures for Delivering VTS  
+Edition 2.2  urn:mrn:iala:pub:g1141:ed2.2  P 17 Actions  may  include:  
+• Alert  respo nsible  authority;  
+• Act on local call-out procedures,  including but not limited to VTS manager;  and 
+• Promulgate  information  concerning incident  to vessels  in the VTS area.  
+5.2.8.  NATURAL DISASTER  
+Natural disaster proce dures  should be esta blished  to deal  with  situati ons such  as earthquake, tidal  wave,  fire, 
+exceptional  weather  conditions.  Actions  may  include:  
+• Promulgate  information  to vessels  in the VTS area;  
+• Act on local call-out procedures;  and 
+• Inform  MRCC. 
+6. EVALUATION OF PROCEDURES  
+ 
+All p rocesses and procedures should be regularly reviewed and evaluated for their adequacy and to support the 
+objectives of the VTS.  
+Such relevant times may  include : 
+• Changes to regulatory requirements  
+• Changes to VTS infrastructure , including systems and equipment changes and upgrad es 
+• Changes of VTS areas and sectors  
+• Changes of port or fairway infrastructure  
+• After a significant near- miss or incident  
+• As part of the ongoing evaluation of the V TS 
+The VTS provider  should also ensure that VTS personnel  are updated with changes to procedures and competence 
+verified through revalidation  training.  
+7. DEFINTIONS  
+ 
+The definitions of terms used in this Guideline can be found in the International Dictionary of Marine Aids to 
+Navigation (IALA Dictionary) at http://www.iala-aism.org/wiki/dictionary  and were checke d as correct at the time 
+of going to print. Where conflict arises, the IALA Dictionary should be considered as  the authoritative source of 
+definitions used in IALA documents.  
+8. ABBREVIATIONS  
+ 
+VTS Vessel Traffic Service or Vessel Traffic Services (dependent o n context) 
+9. REFERENCES  
+ 
+[1] IALA. Recommendation R0127 (V- 127) VTS Operations  
+[2] IMO. Resolution A. 1158( 32) Guidelines  for Vessel Traffic Services  
+ 
+ 
+ 
+IALA Guideline  G1141 Operational Procedures for Delivering VTS  
+Edition 2.2  urn:mrn:iala:pub:g1141:ed2.2  P 18 [3] IALA. Guideline G1141 Operational Procedures for Vessel Traffic Services  
+[4] IALA. Standard S1040 Vessel Traffic Services  
+[5] IALA. Recommendation R0132 Quality Management for Aids to Navigation Authorities  
+[6] IALA. Guideline G1052 Quality Management in AtoN Service Delivery  
+[7] The International Ship and Port Facility (ISPS) Code  
+[8] IALA. Guideline G1156 Recruitment, Training an d Assessment of VTS Personnel  
+[9] IALA. Guideline G 1118 Marine Casualty/Incident Reporting and Recording, Including Near -Miss Situations as 
+it Relates to VTS  
+[10] IALA. Guideline G1131 Setting and Measuring VTS Objectives  
+[11] IMO. International Convention for the Safety of Life At Sea 
+[12] IMO. Resolution A.918(22) IMO Standard Marine Communication Phrases  
+[13] IMO. Resolution A.954(23) Proper use of VHF channels at sea  
+[14] IALA. Guideline G1132 VTS Voice Communication s and Phraseology  
+[15] IALA. Guideline G1089 Provision of a VTS  
+[16] IALA. Guideline G1102 VTS Interaction with Allied or Other Services  
+[17] IMO. Resolution A.949(23) Guideline on Places of Refuge for Ships in Need of Assistance  
+  
+ 
+ 
+ 
+IALA Guideline  G1141 Operational Procedures for Delivering VTS  
+Edition 2.2  urn:mrn:iala:pub:g1141:ed2.2  P 19 ANNEX A  NAVIGATIONAL  SUPPORT – PRE-ASSESSMENT CONSIDERATIONS  
+Examples of considerations for making a pre -assessment prior to the provision of navigational support may include:  
+Capabilities : 
+1 VTS operator workload . 
+2 VTS equipment capabilities and limitations, performance, serviceability and back -up (particularly key 
+elements of communications, radar and AIS).  
+3 Capability of the vessel and bridge staff to continue passage under navigational support : 
+a Status of the ship’s  navigational/communications equipment and machinery;  
+b Knowledge and understanding of VTS  and knowledge of the local area;  
+c Language ability; and  
+d Carriage of up -to-date charts.  
+Operational Considerations: 
+1 Positive identification of ship to be supported.  
+2 Alternative options ( e.g., , anchor, provision of pilot, amendment to voyage or passage plan).  
+3 Cargo carried.  
+4 Risk if navigational support is not provided.  
+5 Environmental conditions (wind, day/night, visibility, tidal height, tidal stream).  
+6 Other ship traffic.  
+7 Communications channel for navigational support.  
+Checks : 
+1 Master’s understanding that VTS navigational support does not absolve the master from responsibility for 
+the safety of their vessel or for collision avoidance.  
+2 Master’s acceptance of navigational support.  
+3 Commencement of navigational support.  
+4 Completion of navigational support.  
+ 
+       
+ 
+ 
+ 
+ 
+IALA Guideline  G1141 Operational Procedures for Deliverin g VTS   
+Edition 2.2  urn:mrn:iala:pub:g1141:ed2.2  P 20 ANNEX B  CONSIDERATIONS FOR INFORMATION THAT A VTS M AY REQUEST  FROM A 
+VESSEL IN EMERGENCY SITUATIONS   
+When a VTS is  the first to become aware of an actual or potential emergency, the International Aeronautical and 
+Maritime Search and Rescue Manual (IMSAR ) Volume II notes that "the information collected and the initial action 
+taken are often critical to successful operations”  It also notes that : 
+“The success of a SAR operation depends on the speed with which the operation is planned and carried out. 
+Information should be gathered to help the competent response authority to determine the nature of 
+distress, the appropriate emergency phase and what action should be taken” . 
+In gathering information, the VTS should ensure safety of other traffic in the VTS area and provide details to the relevant authority such as a rescue coordination centre. Some considerations for information that a VTS may 
+request  from a vessel under emergency situations are listed below.  These considerations are not intended to be 
+exhaustive or mandatory:  
+Situation  Considerati ons  
+COLLISION  When and where did the accident happen  
+Any injuries to persons?  
+Any dangerous or polluting cargo?  
+Is there any pollution?  
+Are you taking water? Are you flooding?  
+Are you sounding your tanks?  
+Can you proceed by yourself?  
+What is the damage/ casualty situation?  
+What assistance is required?  
+Are you venting hazardous / polluting gases?  
+GROUNDING  When and where did the accident happen?  
+Any dangerous or polluting cargo?  
+Is there any pollution?  
+Are you aground?  
+Are you attempting to re -float ? 
+Are you taking water? Are you flooding?  
+Are you sounding your tanks?  
+Do you have any list?  
+What is the damage/casualty situation?  
+What assistance is required?  
+FLOODING / SINKING  Is the flooding under control?  
+Can you proceed by yourself?  
+What assistance is required?  
+FIRE / EXPLOSION  When and where did the accident happen?  
+What part of the ship is on fire/has exploded?  
+Is the fire under control?  
+What is the damage/casualty situation?  
+Is there any pollution?  
+What assist ance is required?  
+ 
+ 
+ 
+IALA Guideline  G1141 Operational Procedures for Delivering VTS  
+Edition 2.2  urn:mrn:iala:pub:g1141:ed2.2  P 21 Situation  Considerati ons  
+MARINE POLLUTION  When and where did the pollution/discharge happen?  
+What type of oil (diesel, oil, HFO, bilge) / dangerous goods or hazardous 
+substances have been discharged?  
+What is the approximate size of the spill (length and breadth)?  
+What direction is it heading?  
+If source of pollution is from the reporting ship:  
+- What time did the discharge occur?  
+- How did the discharge occur?  
+- How much oil / dangerous goods or hazardous substances have been 
+discharged?  
+- Has the discharge stopped?  
+- Can you stop the discharge?  
+- What assistance is required?  
+MAN OVERBOARD  When and where the accident happen?  
+How many persons overboard?  
+Can you still see them?  
+Did anyone see the person go overboard?  
+When was the person last seen?  
+Was the person overboard wearing a life jacket?  
+What assistance is required?  
+NOT UNDER COMMAND (NUC)  What problems do you have?  (e.g., , nature of the mechanical failure)  
+Can you repair by yourself?  
+How long [will it take] to repair?  
+What kind of assistance is required?  
+CONTAINERS / CARGO OVERBOARD  When and where the accident happen?  
+What kind of cargo overboard? Any dangerous or polluting cargo?  
+How much cargo/ how many containers overboard?  
+Are the containers visible? Floating or sinking?  
+MEDICAL ASSISTANCE  What assistance is required?  
+Is the casualty conscious and breathing?  
+Is the casualty male /female? What is their age?  
+Does the casualty speak English?  
+Does the casualty have any known health problems?  
+What treatment has been provided to the casualty on board?  
+Has the casualty been taking any medication?  
+Is your vessel  able to acce pt a helicopter (i. e., to land or use of winch 
+only )?  
+LOSS OF PROPULSION  Are you in danger of grounding?  
+Do you need towage assistance?  
+What is the cause for loss of propulsion?  When will propulsion be restored?  
+ 

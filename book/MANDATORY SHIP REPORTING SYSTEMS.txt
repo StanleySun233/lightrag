@@ -1,0 +1,516 @@
+RESOLUTION MSC.73(69) 
+(adopted on 19 May 1998) 
+MANDATORY SHIP REPORTING SYSTEMS
+MSC 69/22/Add.1
+I:\MSC\69\22-A1.WPDANNEX 10
+RESOLUTION MSC.73(69)
+(adopted on 19May 1998)
+MANDATORY SHIP REPORTING SYSTEMS
+THE MARITIME SAFETY COMMITTEE,
+RECALLING  Article 28(b) of the Convention on the International Maritime Organization
+concerning the functions of the Committee,
+RECALLING ALSO regulation V/8-1 of the International Convention for the Safety of Life at Sea
+(SOLAS), 1974 concerning the adoption by the Organization of ship reporting systems,
+RECALLING FURTHER resolution A.858(20)  which authorizes the Committee to perform the
+function of adopting ship reporting systems on behalf of the Organization,
+TAKING  INTO ACCOUNT the Guidelines and criteria for ship reporting systems, adopted by
+resolution MSC.43(64),
+HAVING CONSIDERED the recommendation of the Sub-Committee on Safety of Navigation at
+its forty-third session,
+1. ADOPTS, in accordance with SOLAS regulation V/8-1, mandatory ship reporting systems:
+-"In the Straits of Malacca and Singapore" area described in Annex 1 to the present resolution;
+and
+-"In the Strait of Bonifacio" area described in Annex 2.
+2. DECIDES  that the aforementioned mandatory ship reporting systems will enter into force at
+0000 hours UTC on 1 December 1998.
+3. REQUESTS  the Secretary-General to bring this resolution and its Annexes to the attention of
+Members of the Organization and Contracting Governments to the 1974 SOLAS Convention.
+RESOLUTION MSC.73(69) 
+(adopted on 19 May 1998) 
+MANDATORY SHIP REPORTING SYSTEMS
+MSC 69/22/Add.1
+ANNEX 10
+Page 2
+I:\MSC\69\22-A1.WPDANNEX 1
+DESCRIPTION OF THE MANDATORY SHIP REPORTING SYSTEM
+IN THE STRAITS OF MALACCA AND SINGAPORE
+1 Categories of ships required to participate in the system
+1.1 Ships of the following categories are required to participate in the ship reporting system:
+.1 vessels of 300 GT and above;
+.2 vessels of 50 metres or more in length;
+.3 vessels engaged in towing or pushing with a combined GT of 300 and above, or with a
+combined length of 50 metres or more;
+.4 vessels of any tonnage carrying hazardous cargo, as defined in paragraph 1.4 of resolution
+MSC.43(64);
+.5 all passenger vessels that are fitted with VHF, regardless of length or GT; and
+.6 any category of vessels less than 50 metres in length or less than 300 GT which are fitted
+with VHF and in an emergency, uses the appropriate traffic lane or separation zone, in
+order to avoid immediate danger. 
+2 Geographical coverage of the system and the number and edition of the reference chart used
+for the delineation of the system
+2.1 The operational area of STRAITREP  covers the Straits of Malacca and Singapore between
+longitudes 100E 40'E and 104E 23'E as shown in the chartlets attached as appendix 1 and appendix 2.  The
+area includes the routeing system in the Straits of Malacca and Singapore. The area is divided into nine
+sectors, each has an assigned VHF channel as shown in appendix 3.
+2.2 The reference charts which include the operational area of STRAITREP are the Malaysian Chart
+Series MAL 515, 521 and 523 of the Hydrographer, Royal Malaysian Navy or the equivalent charts
+published  by the competent hydrographic authority.
+3 Format, content of report, times and geographical positions for submitting reports, authority
+to whom reports should be sent, available services
+The ship report short title STRAITREP, shall be made to the VTS authorities as follows:
+3.1 Format
+The ship report shall be drafted in accordance with the format shown in appendix 4.  The
+information requested from ships is derived from the Standard Reporting Format given in
+paragraph 2 of the IMO resolution A.851(20).
+RESOLUTION MSC.73(69) 
+(adopted on 19 May 1998) 
+MANDATORY SHIP REPORTING SYSTEMS
+MSC 69/22/Add.1
+ANNEX 10
+Page 3
+I:\MSC\69\22-A1.WPD3.2 Content
+The report required from a ship contains only information which is essential to meet the
+objectives of the STRAITREP:
+.1 Information considered essential;
+A - Name of ship, call sign, IMO identification
+number (if available);
+C or D - Position;
+P - Hazardous cargo, class if applicable; and
+Q or R - Breakdown, damage and/or deficiencies affecting
+the structure, cargo or equipment of the ship or
+any other circumstances affecting normal
+navigation  in accordance with the provisions of
+the SOLAS and MARPOL Conventions.
+.2 Information considered necessary when requested by VTS authority;
+E and F  - Course and speed of ship.
+Note:
+On receipt of a position message, operators of the VTS will establish the relation
+between the ship's position and the information supplied by the facilities available
+to them.  The information on heading and speed will facilitate the VTS operator's
+task of identifying a ship within a group.
+.3 Geographical position for submitting reports
+.1 Ships entering the operational area shall report when crossing the limits mentioned
+in paragraph 3 or when crossing a line joining Tg. Piai (01E15'.50N 103E30'.75E)
+and Pulau Karimun Kecil (01E09'.20N 103E24'.35E) or when leaving port or
+anchorages in the area or before joining the traffic lane of the TSS.
+.2 Ships entering the operational area shall also report when approaching from the
+south via Selat Riau, abeam of Karang Galang Lt. (01E09'.58N 104E11'.47E) or
+via Selat Durian, report when Pulau Jangkat Beacon (00E57'.89N 103E42'72E) is
+abeam and when approaching from the East Johor Strait, abeam of Eastern Buoy
+(01E17'.87N, 104E05'.99E).
+.3 A ship approaching from any direction other than those specified above shall on
+reaching sector 7, sector 8 or sector 9 as appropriate report by giving the vessel's
+position in term of bearing and distance from one of the following reference points:
+RESOLUTION MSC.73(69) 
+(adopted on 19 May 1998) 
+MANDATORY SHIP REPORTING SYSTEMS
+MSC 69/22/Add.1
+ANNEX 10
+Page 4
+I:\MSC\69\22-A1.WPD(i) Pu Iyu Kechil Lt (01E11'.48N 103E21'.23E)
+(ii) Sultan Shoal Lt (01E14'.38N 103E38'.98E)
+(iii) Raffles Lt (01E09'.60N 103E44'.55E)
+(iv) Sakijang Lt Bn (01E13'.30N 103E51'.37E)
+(v) Bedok Lt (01E18'.54N 103E56'.06E)
+(vi) Tg. Stapa Lt (01E20'.57N 104E08'.24E)
+(vii) Horsburgh Lt (01E19'.81N 104E24'.44E)
+As an alternative the position can also be given in latitude and longitude.
+.4 Authority
+The VTS authorities for the STRAITREP are as follows:
+(i) Sector 1 to Sector 5 - Klang VTS;
+ (ii) Sector 6 - Johor VTS;  and
+(iii) Sector 7 to Sector 9 - Singapore VTS.
+4 Information to be provided to ships and procedures to be followed
+4.1 STRAITREP also provides information to ships about specific and critical situation which could
+cause conflicting traffic movements and other information concerning safety of navigation.
+4.2 Depending on the sector which a ship is in, every ship shall also maintain a VHF radio telephone
+listening watch on the appropriate VHF Channel. Information of general interest to ships will be broadcast
+on VHF channel 16 and any other channel as may be specified by the appropriate VTS authority.  This
+broadcast will be preceded by an announcement on the appropriate VHF channel assigned to the sector.
+5 Radiocommunications  required for the system, frequencies on which reports should be
+transmitted and information to be reported
+The radiocommunications required for the STRAITREP is as follows:
+5.1 STRAITREP  will be based on VHF voice radiocommunication and will be interactive.
+The call to the appropriate VTS authority shall be made on the VHF channel assigned to
+the particular sector in which the ship is located as indicated in appendix 3, and the report
+shall be transmitted on that channel or any other available channel as assigned by the
+appropriate VTS authorities.
+5.2 The language used for communication shall be English, using the IMO Standard Marine
+Communications Phrases where necessary.
+5.3 Information of commercial confidentiality may be transmitted by non-verbal means.
+RESOLUTION MSC.73(69) 
+(adopted on 19 May 1998) 
+MANDATORY SHIP REPORTING SYSTEMS
+MSC 69/22/Add.1
+ANNEX 10
+Page 5
+I:\MSC\69\22-A1.WPD6 Rules and regulations in force in the area of the system
+6.1 The International Regulations for Preventing Collisions at Sea, 1972 are applicable throughout the
+operational area of  STRAITREP.
+6.2 The Rules For Vessels Navigating Through The Straits of Malacca and Singapore as approved by
+IMO are applicable throughout the area.
+7 SHORE-BASED FACILITIES TO SUPPORT OPERATION OF THE SYSTEM
+The facilities of the STRAITREP are as follows:
+.1 Klang VTS
+- Telephone, facsimile and telex communication
+- 6 sets of VHF radio communication equipment
+- 6 real-time display consoles for 'X' and 'S' bands radar signals from remote radar
+stations.
+.2 Johor VTS
+- Telephone, facsimile and telex communication
+- 4 sets of VHF radio communication equipment
+- 4 real-time display consoles for 'X' and 'S' bands radar signals from remote radar
+stations.
+.3 Singapore VTS
+- Telephone, facsimile and telex communication
+- 11 sets of VHF radio communication equipment
+- 4 real-time display consoles for "X" band radar signals from remote radar stations.
+- 4 sets of VHF radio directions finder in marine bands.
+.4 Remote Stations:
+.1 Pulau Angsa
+- 1 "X" band radar facility
+- 1 "S" band radar facility
+- VHF transmitters and receivers
+.2 Bukit Jugra
+- 1 "X" band radar facility
+- 1 "S" band radar facility
+- VHF transmitters and receivers
+RESOLUTION MSC.73(69) 
+(adopted on 19 May 1998) 
+MANDATORY SHIP REPORTING SYSTEMS
+MSC 69/22/Add.1
+ANNEX 10
+Page 6
+I:\MSC\69\22-A1.WPD.3 Cape Rachado
+- 1 "X" band radar facility
+- 1 "S" band radar facility
+- VHF transmitters and receivers
+.4 Pulau Undan
+- 1 "X" band radar facility
+- 1 "S" band radar facility
+- VHF transmitters and receivers
+.5 Bukit Segenting
+- 1 "X" band radar facility
+- 1 "S" band radar facility
+- VHF transmitters and receivers
+.6 Tanjung Piai
+- 1 "X" band radar facility
+- 1 "S" band radar facility
+- VHF transmitters and receivers
+.7 Bukit Pengerang
+- 1 "X" band radar facility
+- 1 "S" band radar facility
+- VHF transmitters and receivers
+.8 Sultan Shoal Lighthouse
+- VHF transmitters and receivers
+- 1 "X" band radar facility
+.9 Raffles Lighthouse
+- 1 "X" band radar facility
+.10 St. John's Island
+- 1 "X" band radar facility
+.11 Bedok Lighthouse
+-2 sets of VHF/DF radio direction finder
+RESOLUTION MSC.73(69) 
+(adopted on 19 May 1998) 
+MANDATORY SHIP REPORTING SYSTEMS
+MSC 69/22/Add.1
+ANNEX 10
+Page 7
+I:\MSC\69\22-A1.WPD.12 Bedok
+-1 "X" band radar facility
+.13 Horsburgh Lighthouse
+-VHF transmitters and receivers
+-1 "X" band radar facility
+.14 Jurong Control
+-2 sets of VHF/DF radio direction finder.
+8 Alternative communication if the communication facilities of the shore-based authority fail
+8.1 STRAITREP  is designed to avoid, as far as possible, any irretrievable breakdown of equipment
+which would hinder the functioning of the services normally provided by the respective VTS authorities.
+8.2 The most important items of equipment and power sources are duplicated and the facilities are
+provided  with emergency generating sets as well as with Uninterruptable Power Supply (UPS) units. A
+maintenance team is available 24 hours a day to attend to any breakdown.
+8.3 STRAITREP  is also designed in such a manner that if one station fail, the adjacent station can
+provide the necessary coverage.
+RESOLUTION MSC.73(69) 
+(adopted on 19 May 1998) 
+MANDATORY SHIP REPORTING SYSTEMS
+MSC 69/22/Add.1
+ANNEX 10
+Page 8
+I:\MSC\69\22-A1.WPDAPPENDIX 1SlRAfTREP OPERATIONAL AREA ( SECTORS 1 TO 9 ) Appendix I 
+30' 101' 30' lOr 30' nnw 30' 101lv W 
+30'P r~i 
+LEGENI) : 
+CJ> -STRAITR£P REPO~T ii'/G POIN1 S 
+" ... 
+3a' 30' 
+~ 
+• 
+30' 
+1\ • • 
+J? .. I ' q' '-9 ~ 30' 
+3()' 5° 
+P-,.,.,.d b'V' W •• $"'/'NII8$ HV*40rJlpiII. O;Pt NWI 1 JIIII 81 CJ\ Slilill ::I~I. ':1 tllltJ QOfl HY Code AD0200298 
+RESOLUTION MSC.73(69) 
+(adopted on 19 May 1998) 
+MANDATORY SHIP REPORTING SYSTEMS
+MSC 69/22/Add.1
+ANNEX 10
+Page 9
+I:\MSC\69\22-A1.WPDAPPENDIX 240' 
+30' 
+20' 
+10' 
+20' STRArTREP OPERATIONAL AREA ( SECTORS 7 TO 9 
+50' 40' 
+LEGEND' 
+-STRAI1R.P HEPOII11~G POINTS 
+,j>~ 
+<"1' .... 
+30' <:) c. 
+~ ,.. 
+Z 20' 
+w o 
+ri 
+N 
+~ 
+5? 
+.... 
+"'_II.rN! b~ W."S:I«IIW • .sS H..,clrcqIJ*'!lc; OIpt.. r.PA • Ju &8 c:,t. Il/g& SUIt 1:ma oao 30' 40' 
+HV Coda o .. 
+" 
+at 
+3G 
+I 
+2~; 
+I 
+,~ 
+RESOLUTION MSC.73(69) 
+(adopted on 19 May 1998) 
+MANDATORY SHIP REPORTING SYSTEMS
+MSC 69/22/Add.1
+ANNEX 10
+Page 10
+I:\MSC\69\22-A1.WPDAPPENDIX  3
+ASSIGNED VHF CHANNELS FOR SECTORS IN THE MANDATORY REPORTING
+SYSTEM IN THE STRAITS OF MALACCA AND SINGAPORE 
+(STRAITREP)
+SECTOR VHF CHANNELS VTS AUTHORITIES
+Sector 1 VHF channel 66 KLANG VTS
+Sector 2 VHF channel 88 KLANG VTS 
+Sector 3 VHF channel 84 KLANG VTS
+Sector 4 VHF Channel 61 KLANG VTS
+Sector 5 VHF Channel 88 KLANG VTS
+Sector 6 VHF Channel 88 JOHOR VTS
+Sector 7 VHF Channel 73 SINGAPORE VTS
+Sector 8 VHF Channel 14 SINGAPORE VTS
+Sector 9 VHF Channel 10 SINGAPORE VTS
+RESOLUTION MSC.73(69) 
+(adopted on 19 May 1998) 
+MANDATORY SHIP REPORTING SYSTEMS
+MSC 69/22/Add.1
+ANNEX 10
+Page 11
+I:\MSC\69\22-A1.WPDAPPENDIX  4
+DRAFTING OF RADIO REPORTS TO THE MANDATORY SHIP REPORTING SYSTEM IN
+THE STRAITS OF MALACCA AND SINGAPORE
+(STRAITREP)
+Designator Function Information required
+A Ship Name and call sign
+C Position A 4-digit group giving latitudes in degrees
+and minutes suffixed with N (north) or S
+(south) and a 5-digit group giving
+longitudes in degrees and minutes suffixed
+with E (east) or W (west); or
+D Position True bearing (first 3 digits) and distance
+given in nautical miles from an clearly
+identifiable point (state landmark)
+E True course A 3-digit group
+F Speed in knots and tenths
+of knotsA 3-digit group
+P Hazardous cargo on board Indicate “Yes” or “No” to whether vessel
+is carrying hazardous cargo. If “Yes” the
+class if applicable.
+Q Defects/damage/
+deficiencies/other
+limitationsBrief detail of defects, deficiencies or other
+limitations
+ R Description of pollution or
+dangerous goods lost
+overboardBrief detail of type of pollution (oil,
+chemicals, (etc.) or dangerous goods lost
+overboard; position expressed as in (C)
+or (D)
+RESOLUTION MSC.73(69) 
+(adopted on 19 May 1998) 
+MANDATORY SHIP REPORTING SYSTEMS
+MSC 69/22/Add.1
+ANNEX 10
+Page 12
+I:\MSC\69\22-A1.WPDANNEX 2
+DESCRIPTION OF THE MANDATORY SHIP REPORTING SYSTEM
+IN THE STRAIT OF BONIFACIO
+1 CATEGORIES OF SHIPS REQUIRED TO PARTICIPATE IN THE SYSTEM
+Ships of 300 gross tonnage and over are required to participate in the system.
+2 GEOGRAPHICAL COVERAGE OF THE SYSTEM - REFERENCE CHART
+The reporting system covers a circular area with a radius of 20 (twenty) nautical miles centred on
+Bonifacio.   The reference chart is the French Chart No.7024 of the SHOM (Hydrographic and
+Oceanographic Service of the French Navy) International chart No.3350.
+3 FORMAT  AND CONTENTS OF THE REPORT, TIMES AND GEOGRAPHICAL POSITIONS FOR
+SUBMITTING REPORT, AUTHORITY TO WHOM REPORTS SHOULD BE SENT, AVAILABLE SERVICES
+3.1 Content
+The report required shall include:
+- information considered essential:
+- the name of the ship, her callsign or IMO identification umber (letter A)
+- time and position (letters C or D)
+- course and speed (letters E and F)
+- draught (letter O)
+- additional information, if appropriate
+- cargo (in case of transport of petroleum products, dangerous or polluting substances)
+(letter P)
+- defects or damage (letter Q)
+In addition, in accordance with provisions of SOLAS and MARPOL Conventions, ships must report
+information on any defect, damage, deficiency or limitations as well as, if necessary, information relating
+to pollution incidents or loss of cargo.  Possession of this information enables the operators to broadcast
+safety messages to other ship traffic and to ensure more effective tracking of the trajectories of ships
+concerned.
+RESOLUTION MSC.73(69) 
+(adopted on 19 May 1998) 
+MANDATORY SHIP REPORTING SYSTEMS
+MSC 69/22/Add.1
+ANNEX 10
+Page 13
+I:\MSC\69\22-A1.WPDShips shall transmit their reports on entering the precautionary areas defined in the documents about
+routeing measures in the Strait of Bonifacio, or when passing the following lines:
+- East Bound:
+• A line linking the beacon of Cap De Fano in Corsica to Point
+41° 19'.18 N 009° 06'.51 E
+(West end of the North limit of the two way route)
+• A line linking the beacon of Capo Testa in Sardinia to Point
+41° 16'.75 N 009° 06'.18 E
+(West end of the South limit of the two way route).
+- West Bound
+• A line linking Pointe De Rondinara in Corsica to Point
+41° 22'.55 N 009° 22'.38 E
+(East end of the North limit of the two way route)
+• A line linking Punta Galera in Sardinia to Point
+41° 21'.58 N 009° 23'.30 E
+(East end of the South limit of the two way route)
+3.2 Recipient of report
+The shore-based authorities are La Maddalena Coast Guard Station (Sardinia, Italy) and Pertusato
+Naval Signal Station, (Corsica, France), common call sign: Bonifacio Traffic.  
+4 INFORMATION TO BE PROVIDED TO SHIPS AND PROCEDURES TO BE FOLLOWED
+Detected and identified ships are monitored by radar which in no way releases their masters from
+their responsibility for safe navigation.
+Following receiving report Bonifacio Traffic will provide:
+- information on navigational conditions (status of aids to navigation, presence of other ships
+and their position at the moment of contact); and
+- information on weather conditions.
+5 RADIOCOMMUNICATIONS  REQUIRED FOR THE SYSTEM, FREQUENCIES ON WHICH REPORTS
+SHOULD BE TRANSMITTED AND INFORMATION TO BE REPORTED
+5.1 The radiocommunication equipment required for the system is VHF.  Ship reports shall be
+transmitted  by voice on VHF channel 10, back up VHF channel 16, both permanently watched by the
+station.   An IMO circular will provide for another back up VHF channel, if necessary, after
+1 February 1999.  Use of automatic identification system will be implemented in accordance with IMO
+decisions.
+RESOLUTION MSC.73(69) 
+(adopted on 19 May 1998) 
+MANDATORY SHIP REPORTING SYSTEMS
+MSC 69/22/Add.1
+ANNEX 10
+Page 14
+I:\MSC\69\22-A1.WPD5.2 The report required from a ship is mentioned in paragraph 3.1 above in the appendix "Summary".
+The language used shall be English or languages indicated in nautical publications.
+5.3 Information of commercial confidentiality may be transmitted by non-verbal means.  Detail of fax
+call number to be published in nautical information documents.
+6 RULES AND REGULATIONS IN FORCE IN THE AREA OF THE SYSTEM
+6.1 The international regulations for preventing collisions at sea (COLREGs) are applicable throughout
+the area of coverage of the system.
+6.2 The IMO resolution A.766(18) about navigation in the Strait of Bonifacio, adopted on
+4 November 1993 remains in force as far as it recommends each flag State to prohibit or at least strongly
+discourage the transit by certain categories of ships (operative paragraph 1).  Its ship reporting provisions
+are replaced by those of the present instrument.
+6.3 The regulation (arrêté) of the Préfet maritime for Mediterranean region n° 23/83 dated 6 May 1983
+rules navigation in the approaches of the French coast in order to prevent accidental marine pollution, for
+ships carrying hazardous or polluting cargoes.  This instrument has the following provisions:
+.1 for ships intending to enter French territorial waters, mandatory ship reporting with a six-
+hour advance warning.  In addition to information concerning the identity of the ship, the
+report must specify the place and time of entry into French waters, the port arrived from
+and the destination, the cargo and the status of manoeuvrability and navigational capacities;
+.2 mandatory watch on VHF channel 16 while travelling through territorial waters; and
+.3 mandatory reporting of any damage occurring at less than 50 miles from the Franch coast.
+6.4 French regulations (arrêté) of the Préfet maritime n° 1/83 dated 15 February 1983 and 7/93 dated
+5 March 1993 and Italian decree of the Minister of Merchant Marine dated 26 February 1993 prohibit
+transit through the Strait of Bonifacio for French and Italian ships carrying oil products or hazardous goods.
+They will remain in force.
+7 SHORE-BASED FACILITIES TO SUPPORT OPERATION OF THE SYSTEM
+7.1 Stations will be equipped with radar installations assisted by computer covering the whole area.
+7.2 Stations will be equipped with a duplicated VHF equipment.
+7.3 Personnel operating the system:  Stations will be manned by Naval personnel on a 24-hour basis.
+Duty officers are qualified Senior Chief Petty-officers.
+8 ALTERNATIVE  COMMUNICATION IF THE COMMUNICATION FACILITIES OF THE SHORE-BASED
+AUTHORITY FAIL
+Each station will assure relief of the other one in case of failure.
+RESOLUTION MSC.73(69) 
+(adopted on 19 May 1998) 
+MANDATORY SHIP REPORTING SYSTEMS
+MSC 69/22/Add.1
+ANNEX 10
+Page 15
+I:\MSC\69\22-A1.WPDAPPENDIX
+SUMMARY
+(Ship Reporting System)
+1 General
+1.1 Vessels concerned:
+All ships of 300 GT and over
+1.2 Area on entering which vessels shall report:
+Ships shall transmit their reports on entering the precautionary areas defined in the documents about
+routeing measures in Strait of Bonifacio, or when passing the following lines:
+- East Bound:
+• A line linking the beacon of Cap De Fano in Corsica to geographical position
+41° 19'.18 N 009° 06'.51 E
+(West end of the North limit of the two way route)
+• A line linking the beacon of Capo Testa in Sardinia to geographical position
+41° 16'.75 N 009° 06'.18 E
+(West end of the South limit of the two way route).
+- West Bound
+• A line linking Pointe De Rondinara in Corsica to geographical position
+41° 22'.55 N 009° 22'.38 E
+(East end of the North limit of the two way route)
+• A line linking Punta Galera in Sardinia to geographical position
+41° 21'.58 N 009° 23'.30 E
+(East end of the South limit of the two way route)
+1.2 Reference chart
+French (SHOM) chart No.7024 International chart No.3350
+RESOLUTION MSC.73(69) 
+(adopted on 19 May 1998) 
+MANDATORY SHIP REPORTING SYSTEMS
+MSC 69/22/Add.1
+ANNEX 10
+Page 16
+I:\MSC\69\22-A1.WPD2 Reporting format (in accordance with resolution A.851(20) - General principles for ship reporting
+systems  and ship reporting requirements, including guidelines for reporting incidents involving
+dangerous goods, harmful substances and/or marine pollutants).
+Name of system: BONIFREP
+Data to be transmitted:
+Heading Information
+A Name  +  call sign  +  IMO number
+C or D Time and Position
+E and F Course and speed
+O Draught
+P Cargo (in case of transport of oil products, hazardous or pollution substances)
+Q Defect or damage (if relevant)
+P Polluting/dangerous goods lost overboard (if relevant)
+In the event of defect, pollution or goods lost overboard, additional information may be requested.
+3 Authority to whom the report shall be sent
+Pertusato Naval Signal Station (France) - La Maddalena Coast Guard Station (Italy); common call
+sign:  BONIFACIO TRAFFIC
+4 Communications facilities
+The reports are to be transmitted on VHF channel 10 (or on channel 16 if not possible)
+***
+RESOLUTION MSC.73(69) 
+(adopted on 19 May 1998) 
+MANDATORY SHIP REPORTING SYSTEMS
+RESOLUTION MSC.73(69) 
+(adopted on 19 May 1998) 
+MANDATORY SHIP REPORTING SYSTEMS
